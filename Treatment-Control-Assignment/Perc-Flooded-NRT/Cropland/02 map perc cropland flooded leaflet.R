@@ -21,7 +21,6 @@ m <- basemap %>% addPolygons(data=shp,
                              weight = 2,
                              fillOpacity = 0.2)
 
-
 # shade in chloropleth -----
 
 # define color palette for legend

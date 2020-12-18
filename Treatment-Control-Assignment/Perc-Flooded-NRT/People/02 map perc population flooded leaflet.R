@@ -11,7 +11,6 @@ library(htmlwidgets)
 # read in shapefile  ----
 shp <- readOGR("perc_people_flooded_shp", "perc_people_flooded")
 
-
 # define basemap ----
 basemap <- leaflet() %>% addProviderTiles("Stamen.TerrainBackground")
 
@@ -21,11 +20,10 @@ m <- basemap %>% addPolygons(data=shp,
                         weight = 2,
                         fillOpacity = 0.2)
 
-
 # shade in chloropleth -----
 
 # define color palette for legend
-bins <- c(0.0000, 0.0025, 0.0050, 0.0075, 0.0100, 0.0125, 0.0150, 0.0175, Inf)
+bins <- c(0.00, 0.01, 0.02, 0.03, 0.04, 0.05, Inf)
 pal <- colorBin("Spectral", domain = shp$Perc.Popul, bins = bins)
 
 # make chloropleth

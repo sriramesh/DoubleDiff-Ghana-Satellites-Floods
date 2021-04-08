@@ -5,6 +5,18 @@ Kwahu Afram Plains North,1,2017,0.0
 Kwahu Afram Plains North,1,2018,0.0004977832054583588
 Kwahu Afram Plains North,1,2019,0.000398226564366687
 Kwahu Afram Plains North,1,2020,0.001194679693100061
+East Gonja,1,2015,0.0
+East Gonja,1,2016,0.0
+East Gonja,1,2017,0.0
+East Gonja,1,2018,0.003655644633195796
+East Gonja,1,2019,0.007190494052425124
+East Gonja,1,2020,0.008353942692207437
+Gonja Central,1,2015,0.0
+Gonja Central,1,2016,0.0
+Gonja Central,1,2017,0.0
+Gonja Central,1,2018,0.008714045776850152
+Gonja Central,1,2019,0.012930519539842164
+Gonja Central,1,2020,0.017630275604433573
 Sene East,1,2015,0.0
 Sene East,1,2016,0.0
 Sene East,1,2017,0.0
@@ -17,54 +29,60 @@ Krachi East,1,2017,0.0
 Krachi East,1,2018,0.0003288711497783857
 Krachi East,1,2019,0.0005755245121121749
 Krachi East,1,2020,0.0013977023865581392
-East Gonja,1,2015,0.0
-East Gonja,1,2016,0.0
-East Gonja,1,2017,0.0
-East Gonja,1,2018,0.003655644633195796
-East Gonja,1,2019,0.007190494052425124
-East Gonja,1,2020,0.008353942692207437
-Krachi West,1,2015,0.0
-Krachi West,1,2016,0.0
-Krachi West,1,2017,0.0
-Krachi West,1,2018,0.00043543408936644334
-Krachi West,1,2019,0.0010245507985092786
-Krachi West,1,2020,0.001588053737689382
-Gonja Central,1,2015,0.0
-Gonja Central,1,2016,0.0
-Gonja Central,1,2017,0.0
-Gonja Central,1,2018,0.008714045776850152
-Gonja Central,1,2019,0.012930519539842164
-Gonja Central,1,2020,0.017630275604433573
-Kwahu Afram Plains South,1,2015,0.0
-Kwahu Afram Plains South,1,2016,0.0
-Kwahu Afram Plains South,1,2017,0.0
-Kwahu Afram Plains South,1,2018,0.0006480153450033698
-Kwahu Afram Plains South,1,2019,0.0006480153450033698
-Kwahu Afram Plains South,1,2020,0.0007776184140040436
-Biakoye,1,2015,0.0
-Biakoye,1,2016,0.0
-Biakoye,1,2017,0.0
-Biakoye,1,2018,0.0
-Biakoye,1,2019,0.0
-Biakoye,1,2020,5.399159890721004e-05
 Ga South,1,2015,0.00041554588430845125
 Ga South,1,2016,0.0007104494151079973
 Ga South,1,2017,0.0008753711044654143
 Ga South,1,2018,0.000701512944477708
 Ga South,1,2019,0.002613768718182441
 Ga South,1,2020,0.0012524989263093375
-Asuogyaman,1,2015,0.0
-Asuogyaman,1,2016,0.0005924393454955802
-Asuogyaman,1,2017,0.0
-Asuogyaman,1,2018,0.0
-Asuogyaman,1,2019,0.00032913296971976677
-Asuogyaman,1,2020,0.000724092533383487
+Krachi West,1,2015,0.0
+Krachi West,1,2016,0.0
+Krachi West,1,2017,0.0
+Krachi West,1,2018,0.00043543408936644334
+Krachi West,1,2019,0.0010245507985092786
+Krachi West,1,2020,0.001588053737689382
+Kwahu Afram Plains South,1,2015,0.0
+Kwahu Afram Plains South,1,2016,0.0
+Kwahu Afram Plains South,1,2017,0.0
+Kwahu Afram Plains South,1,2018,0.0006480153450033698
+Kwahu Afram Plains South,1,2019,0.0006480153450033698
+Kwahu Afram Plains South,1,2020,0.0007776184140040436
 Keta Municipal,1,2015,0.000777343041484207
 Keta Municipal,1,2016,0.0008392256443945184
 Keta Municipal,1,2017,0.000557095846397015
 Keta Municipal,1,2018,0.0010105459539294693
 Keta Municipal,1,2019,0.0014092772081496035
 Keta Municipal,1,2020,0.0006607415852615759
+Accra Metropolis,1,2015,0.0
+Accra Metropolis,1,2016,4.465545052448371e-05
+Accra Metropolis,1,2017,6.917216845949435e-05
+Accra Metropolis,1,2018,2.2327725262241856e-05
+Accra Metropolis,1,2019,7.346259409812121e-05
+Accra Metropolis,1,2020,6.689561607981482e-05
+Ada West,1,2015,0.004936365015236545
+Ada West,1,2016,0.008411124746632102
+Ada West,1,2017,0.009183293575831116
+Ada West,1,2018,0.00198557698936889
+Ada West,1,2019,0.0049915199316079035
+Ada West,1,2020,0.0041917736442232114
+Biakoye,1,2015,0.0
+Biakoye,1,2016,0.0
+Biakoye,1,2017,0.0
+Biakoye,1,2018,0.0
+Biakoye,1,2019,0.0
+Biakoye,1,2020,5.399159890721004e-05
+Asuogyaman,1,2015,0.0
+Asuogyaman,1,2016,0.0005924393454955802
+Asuogyaman,1,2017,0.0
+Asuogyaman,1,2018,0.0
+Asuogyaman,1,2019,0.00032913296971976677
+Asuogyaman,1,2020,0.000724092533383487
+Komenda Edna Eguafo / Abirem,1,2015,0.001413966298420661
+Komenda Edna Eguafo / Abirem,1,2016,0.014276069144760132
+Komenda Edna Eguafo / Abirem,1,2017,0.0002827932596841322
+Komenda Edna Eguafo / Abirem,1,2018,0.0018331657186583161
+Komenda Edna Eguafo / Abirem,1,2019,0.001272569668578595
+Komenda Edna Eguafo / Abirem,1,2020,0.002969329226683389
 Krachi Nchumuru,1,2015,0.0
 Krachi Nchumuru,1,2016,0.0
 Krachi Nchumuru,1,2017,0.0
@@ -83,30 +101,24 @@ Pru,1,2017,0.0
 Pru,1,2018,0.0
 Pru,1,2019,0.00011857845359746104
 Pru,1,2020,0.00011857845359746104
-Ada West,1,2015,0.004936365015236545
-Ada West,1,2016,0.008411124746632102
-Ada West,1,2017,0.009183293575831116
-Ada West,1,2018,0.00198557698936889
-Ada West,1,2019,0.0049915199316079035
-Ada West,1,2020,0.0041917736442232114
-Upper Manya,1,2015,0.0
-Upper Manya,1,2016,0.0
-Upper Manya,1,2017,0.0
-Upper Manya,1,2018,0.0002685929967910205
-Upper Manya,1,2019,0.0002685929967910205
-Upper Manya,1,2020,0.00016963768218380244
 Kpandai,1,2015,0.0
 Kpandai,1,2016,0.0
 Kpandai,1,2017,0.00038714985118927595
 Kpandai,1,2018,0.00038714985118927595
 Kpandai,1,2019,0.0007742997023785519
 Kpandai,1,2020,0.0007742997023785519
-Accra Metropolis,1,2015,0.0
-Accra Metropolis,1,2016,4.465545052448371e-05
-Accra Metropolis,1,2017,6.917216845949435e-05
-Accra Metropolis,1,2018,2.2327725262241856e-05
-Accra Metropolis,1,2019,7.346259409812121e-05
-Accra Metropolis,1,2020,6.689561607981482e-05
+Ketu South,1,2015,0.00028377576554962207
+Ketu South,1,2016,0.00015478678120888476
+Ketu South,1,2017,0.00020638237494517968
+Ketu South,1,2018,0.00023218017181332715
+Ketu South,1,2019,0.0003611691561540645
+Ketu South,1,2020,0.0002579779686814746
+Upper Manya,1,2015,0.0
+Upper Manya,1,2016,0.0
+Upper Manya,1,2017,0.0
+Upper Manya,1,2018,0.0002685929967910205
+Upper Manya,1,2019,0.0002685929967910205
+Upper Manya,1,2020,0.00016963768218380244
 Sene West,1,2015,0.0
 Sene West,1,2016,0.0
 Sene West,1,2017,0.0
@@ -119,12 +131,12 @@ South Dayi,1,2017,0.0
 South Dayi,1,2018,0.0004256526674233825
 South Dayi,1,2019,0.000993189557321226
 South Dayi,1,2020,0.0005675368898978432
-Komenda Edna Eguafo / Abirem,1,2015,0.001413966298420661
-Komenda Edna Eguafo / Abirem,1,2016,0.014276069144760132
-Komenda Edna Eguafo / Abirem,1,2017,0.0002827932596841322
-Komenda Edna Eguafo / Abirem,1,2018,0.0018331657186583161
-Komenda Edna Eguafo / Abirem,1,2019,0.001272569668578595
-Komenda Edna Eguafo / Abirem,1,2020,0.002969329226683389
+Ada East,1,2015,0.0009373388948774428
+Ada East,1,2016,0.0014060083423161644
+Ada East,1,2017,0.0009139054225055068
+Ada East,1,2018,0.00013453570020593888
+Ada East,1,2019,0.00021090125134742464
+Ada East,1,2020,0.0006795706987861461
 Kwahu South,1,2015,0.0
 Kwahu South,1,2016,0.0
 Kwahu South,1,2017,0.0
@@ -143,18 +155,18 @@ Kpando Municipal,1,2017,0.0
 Kpando Municipal,1,2018,0.0
 Kpando Municipal,1,2019,0.0
 Kpando Municipal,1,2020,0.0
-Ketu South,1,2015,0.00028377576554962207
-Ketu South,1,2016,0.00015478678120888476
-Ketu South,1,2017,0.00020638237494517968
-Ketu South,1,2018,0.00023218017181332715
-Ketu South,1,2019,0.0003611691561540645
-Ketu South,1,2020,0.0002579779686814746
-Ada East,1,2015,0.0009373388948774428
-Ada East,1,2016,0.0014060083423161644
-Ada East,1,2017,0.0009139054225055068
-Ada East,1,2018,0.00013453570020593888
-Ada East,1,2019,0.00021090125134742464
-Ada East,1,2020,0.0006795706987861461
+West Mamprusi,1,2015,0.0003364972540554268
+West Mamprusi,1,2016,0.0004153178257600805
+West Mamprusi,1,2017,6.581285456675398e-05
+West Mamprusi,1,2018,0.00046068998196727786
+West Mamprusi,1,2019,6.581285456675398e-05
+West Mamprusi,1,2020,0.0009154955204674104
+Jomoro,1,2015,0.0010789476626527578
+Jomoro,1,2016,0.0008273795547803531
+Jomoro,1,2017,0.0019342792294189336
+Jomoro,1,2018,0.0020181352653764017
+Jomoro,1,2019,0.0009783204195037956
+Jomoro,1,2020,0.00030188172944688564
 Banda,1,2015,0.0005954374604592313
 Banda,1,2016,0.0
 Banda,1,2017,0.0
@@ -167,276 +179,228 @@ Bole,1,2017,0.0
 Bole,1,2018,0.00025912489820093286
 Bole,1,2019,0.00025912489820093286
 Bole,1,2020,0.0
-Bosomtwe / Atwima / Kwanwoma,1,2015,0.0
-Bosomtwe / Atwima / Kwanwoma,1,2016,0.0
-Bosomtwe / Atwima / Kwanwoma,1,2017,0.0
-Bosomtwe / Atwima / Kwanwoma,1,2018,0.0
-Bosomtwe / Atwima / Kwanwoma,1,2019,0.0
-Bosomtwe / Atwima / Kwanwoma,1,2020,0.0
-West Mamprusi,1,2015,0.0003364972540554268
-West Mamprusi,1,2016,0.0004153178257600805
-West Mamprusi,1,2017,6.581285456675398e-05
-West Mamprusi,1,2018,0.00046068998196727786
-West Mamprusi,1,2019,6.581285456675398e-05
-West Mamprusi,1,2020,0.0009154955204674104
-Nkwanta South,1,2015,0.0
-Nkwanta South,1,2016,0.0
-Nkwanta South,1,2017,0.0
-Nkwanta South,1,2018,0.0001295085151848734
-Nkwanta South,1,2019,0.0002023570549763647
-Nkwanta South,1,2020,0.00034805413455934726
-Kumbumgu,1,2015,0.0
-Kumbumgu,1,2016,0.0
-Kumbumgu,1,2017,0.0
-Kumbumgu,1,2018,0.00010793890657887635
-Kumbumgu,1,2019,0.0
-Kumbumgu,1,2020,0.00032381671973662906
-Nkwanta North,1,2015,0.0
-Nkwanta North,1,2016,0.0
-Nkwanta North,1,2017,0.0
-Nkwanta North,1,2018,0.0
-Nkwanta North,1,2019,0.0003742823704680684
-Nkwanta North,1,2020,0.00022471629567670816
-Jomoro,1,2015,0.0010789476626527578
-Jomoro,1,2016,0.0008273795547803531
-Jomoro,1,2017,0.0019342792294189336
-Jomoro,1,2018,0.0020181352653764017
-Jomoro,1,2019,0.0009783204195037956
-Jomoro,1,2020,0.00030188172944688564
-Savelugu Nanton,1,2015,0.0
-Savelugu Nanton,1,2016,0.0
-Savelugu Nanton,1,2017,0.0
-Savelugu Nanton,1,2018,0.00012739148561634317
-Savelugu Nanton,1,2019,0.0
-Savelugu Nanton,1,2020,0.0004169175892898504
-Kintampo North,1,2015,0.0
-Kintampo North,1,2016,0.0
-Kintampo North,1,2017,0.0
-Kintampo North,1,2018,4.98754589132462e-05
-Kintampo North,1,2019,0.0001251313288711029
-Kintampo North,1,2020,0.0004467026124116113
 Ekumfi,1,2015,0.0
 Ekumfi,1,2016,0.00032492947553428746
 Ekumfi,1,2017,0.0
 Ekumfi,1,2018,0.0006498589510685749
 Ekumfi,1,2019,0.0008123236888357186
 Ekumfi,1,2020,0.00016246473776714373
-Nanumba North,1,2015,0.0
-Nanumba North,1,2016,9.57169840216448e-05
-Nanumba North,1,2017,0.0
-Nanumba North,1,2018,0.0
-Nanumba North,1,2019,0.0
-Nanumba North,1,2020,0.0001914339680432896
-Lower Manya,1,2015,0.0
-Lower Manya,1,2016,0.0
-Lower Manya,1,2017,0.0
-Lower Manya,1,2018,0.0
-Lower Manya,1,2019,0.0
-Lower Manya,1,2020,5.802066841260529e-07
-Mamprugu Moagduri,1,2015,0.0009789525208027412
-Mamprugu Moagduri,1,2016,0.0005873715124816446
-Mamprugu Moagduri,1,2017,0.0
-Mamprugu Moagduri,1,2018,0.00019579050416054818
-Mamprugu Moagduri,1,2019,0.0
-Mamprugu Moagduri,1,2020,0.0011747430249632893
-North Tongu,1,2015,7.844719383180922e-05
-North Tongu,1,2016,0.00015689438766361844
-North Tongu,1,2017,0.0003137887753272369
-North Tongu,1,2018,0.0
-North Tongu,1,2019,0.0
-North Tongu,1,2020,0.0003137887753272369
-South Tongu,1,2015,0.0
-South Tongu,1,2016,0.001754967258073543
-South Tongu,1,2017,0.00015223596574690768
-South Tongu,1,2018,4.268577078785844e-05
-South Tongu,1,2019,8.037163485755863e-05
-South Tongu,1,2020,7.611798287345384e-05
+Nkwanta South,1,2015,0.0
+Nkwanta South,1,2016,0.0
+Nkwanta South,1,2017,0.0
+Nkwanta South,1,2018,0.0001295085151848734
+Nkwanta South,1,2019,0.0002023570549763647
+Nkwanta South,1,2020,0.00034805413455934726
+Savelugu Nanton,1,2015,0.0
+Savelugu Nanton,1,2016,0.0
+Savelugu Nanton,1,2017,0.0
+Savelugu Nanton,1,2018,0.00012739148561634317
+Savelugu Nanton,1,2019,0.0
+Savelugu Nanton,1,2020,0.0004169175892898504
+Kumbumgu,1,2015,0.0
+Kumbumgu,1,2016,0.0
+Kumbumgu,1,2017,0.0
+Kumbumgu,1,2018,0.00010793890657887635
+Kumbumgu,1,2019,0.0
+Kumbumgu,1,2020,0.00032381671973662906
+Kintampo North,1,2015,0.0
+Kintampo North,1,2016,0.0
+Kintampo North,1,2017,0.0
+Kintampo North,1,2018,4.98754589132462e-05
+Kintampo North,1,2019,0.0001251313288711029
+Kintampo North,1,2020,0.0004467026124116113
+Bosomtwe / Atwima / Kwanwoma,1,2015,0.0
+Bosomtwe / Atwima / Kwanwoma,1,2016,0.0
+Bosomtwe / Atwima / Kwanwoma,1,2017,0.0
+Bosomtwe / Atwima / Kwanwoma,1,2018,0.0
+Bosomtwe / Atwima / Kwanwoma,1,2019,0.0
+Bosomtwe / Atwima / Kwanwoma,1,2020,0.0
+Nkwanta North,1,2015,0.0
+Nkwanta North,1,2016,0.0
+Nkwanta North,1,2017,0.0
+Nkwanta North,1,2018,0.0
+Nkwanta North,1,2019,0.0003742823704680684
+Nkwanta North,1,2020,0.00022471629567670816
 Amansie West,1,2015,0.0012198536006244446
 Amansie West,1,2016,0.0014948000842553092
 Amansie West,1,2017,0.00041241972544629713
 Amansie West,1,2018,0.0014555220151651856
 Amansie West,1,2019,0.0007659223472574089
 Amansie West,1,2020,0.0005302539327166675
-North Gonja,1,2015,0.00033530451746631716
-North Gonja,1,2016,0.00033530451746631716
-North Gonja,1,2017,0.0
-North Gonja,1,2018,0.0006706090349326343
-North Gonja,1,2019,0.00033530451746631716
-North Gonja,1,2020,0.00033530451746631716
-Nanumba South,1,2015,0.0
-Nanumba South,1,2016,0.0
-Nanumba South,1,2017,0.0
-Nanumba South,1,2018,0.0
-Nanumba South,1,2019,2.780542496048239e-05
-Nanumba South,1,2020,0.0
 Shama,1,2015,0.0010798827555865364
 Shama,1,2016,0.00015426896508379093
 Shama,1,2017,0.00046280689525137267
 Shama,1,2018,0.0009256137905027453
 Shama,1,2019,0.00030853793016758185
 Shama,1,2020,0.0013884206857541182
+Mamprugu Moagduri,1,2015,0.0009789525208027412
+Mamprugu Moagduri,1,2016,0.0005873715124816446
+Mamprugu Moagduri,1,2017,0.0
+Mamprugu Moagduri,1,2018,0.00019579050416054818
+Mamprugu Moagduri,1,2019,0.0
+Mamprugu Moagduri,1,2020,0.0011747430249632893
+Nanumba North,1,2015,0.0
+Nanumba North,1,2016,9.57169840216448e-05
+Nanumba North,1,2017,0.0
+Nanumba North,1,2018,0.0
+Nanumba North,1,2019,0.0
+Nanumba North,1,2020,0.0001914339680432896
 Central Tongu,1,2015,0.0
 Central Tongu,1,2016,0.0041111111111111105
 Central Tongu,1,2017,0.0014444444444444446
 Central Tongu,1,2018,0.0001111111111111111
 Central Tongu,1,2019,0.0006666666666666666
 Central Tongu,1,2020,0.0011111111111111113
-Saboba,1,2015,0.0
-Saboba,1,2016,0.0
-Saboba,1,2017,0.0
-Saboba,1,2018,0.0
-Saboba,1,2019,0.0002068305799012384
-Saboba,1,2020,0.0002068305799012384
-Tolon,1,2015,0.0
-Tolon,1,2016,0.0
-Tolon,1,2017,0.0
-Tolon,1,2018,0.0
-Tolon,1,2019,0.0
-Tolon,1,2020,0.0
-Afadzato South,1,2015,0.0
-Afadzato South,1,2016,0.0
-Afadzato South,1,2017,0.0
-Afadzato South,1,2018,0.0
-Afadzato South,1,2019,0.0
-Afadzato South,1,2020,0.0
 Cape Coast Metro,1,2015,0.0
 Cape Coast Metro,1,2016,0.007951741157115437
 Cape Coast Metro,1,2017,0.00013950423082658662
 Cape Coast Metro,1,2018,0.00027900846165317323
 Cape Coast Metro,1,2019,0.00027900846165317323
 Cape Coast Metro,1,2020,0.0005580169233063465
+South Tongu,1,2015,0.0
+South Tongu,1,2016,0.001754967258073543
+South Tongu,1,2017,0.00015223596574690768
+South Tongu,1,2018,4.268577078785844e-05
+South Tongu,1,2019,8.037163485755863e-05
+South Tongu,1,2020,7.611798287345384e-05
 Mfantsiman,1,2015,0.0
 Mfantsiman,1,2016,0.0005994387073921691
 Mfantsiman,1,2017,7.492983842402114e-05
 Mfantsiman,1,2018,0.00014985967684804228
 Mfantsiman,1,2019,0.0004495790305441269
 Mfantsiman,1,2020,0.00029971935369608457
+North Gonja,1,2015,0.00033530451746631716
+North Gonja,1,2016,0.00033530451746631716
+North Gonja,1,2017,0.0
+North Gonja,1,2018,0.0006706090349326343
+North Gonja,1,2019,0.00033530451746631716
+North Gonja,1,2020,0.00033530451746631716
+Saboba,1,2015,0.0
+Saboba,1,2016,0.0
+Saboba,1,2017,0.0
+Saboba,1,2018,0.0
+Saboba,1,2019,0.0002068305799012384
+Saboba,1,2020,0.0002068305799012384
+North Tongu,1,2015,7.844719383180922e-05
+North Tongu,1,2016,0.00015689438766361844
+North Tongu,1,2017,0.0003137887753272369
+North Tongu,1,2018,0.0
+North Tongu,1,2019,0.0
+North Tongu,1,2020,0.0003137887753272369
+Lower Manya,1,2015,0.0
+Lower Manya,1,2016,0.0
+Lower Manya,1,2017,0.0
+Lower Manya,1,2018,0.0
+Lower Manya,1,2019,0.0
+Lower Manya,1,2020,5.802066841260529e-07
 Karaga,1,2015,0.0
 Karaga,1,2016,0.0
 Karaga,1,2017,0.0
 Karaga,1,2018,0.0
 Karaga,1,2019,0.00013664135548224638
 Karaga,1,2020,0.0004099240664467392
-Kasena Nankana West,1,2015,0.0
-Kasena Nankana West,1,2016,0.0
-Kasena Nankana West,1,2017,7.1567446354235e-05
-Kasena Nankana West,1,2018,0.0
-Kasena Nankana West,1,2019,0.0
-Kasena Nankana West,1,2020,0.0
-Kasena Nankana East,1,2015,4.893646336654362e-05
-Kasena Nankana East,1,2016,0.00016985228789844018
-Kasena Nankana East,1,2017,0.00015144172522413377
-Kasena Nankana East,1,2018,0.0
-Kasena Nankana East,1,2019,0.0
-Kasena Nankana East,1,2020,0.0002304289779880938
-Shai Osu Doku,1,2015,0.0
-Shai Osu Doku,1,2016,0.00024139040875442548
-Shai Osu Doku,1,2017,0.00028162214354682973
-Shai Osu Doku,1,2018,0.0
-Shai Osu Doku,1,2019,0.0
-Shai Osu Doku,1,2020,0.00015998031011567806
-Asante Akim North,1,2015,0.0
-Asante Akim North,1,2016,0.0
-Asante Akim North,1,2017,0.0
-Asante Akim North,1,2018,0.0
-Asante Akim North,1,2019,0.0
-Asante Akim North,1,2020,0.0
-Builsa North,1,2015,0.00021940048816608616
-Builsa North,1,2016,0.00032910073224912925
-Builsa North,1,2017,0.0009873021967473877
-Builsa North,1,2018,0.0005485012204152153
-Builsa North,1,2019,0.0004388009763321723
-Builsa North,1,2020,0.0006582014644982585
+Nanumba South,1,2015,0.0
+Nanumba South,1,2016,0.0
+Nanumba South,1,2017,0.0
+Nanumba South,1,2018,0.0
+Nanumba South,1,2019,2.780542496048239e-05
+Nanumba South,1,2020,0.0
+Tolon,1,2015,0.0
+Tolon,1,2016,0.0
+Tolon,1,2017,0.0
+Tolon,1,2018,0.0
+Tolon,1,2019,0.0
+Tolon,1,2020,0.0
 Twifo Ati-Morkwa,1,2015,0.0001450358684859371
 Twifo Ati-Morkwa,1,2016,0.0031907891066906163
 Twifo Ati-Morkwa,1,2017,0.0001450358684859371
 Twifo Ati-Morkwa,1,2018,0.0001450358684859371
 Twifo Ati-Morkwa,1,2019,0.00043510760545781133
 Twifo Ati-Morkwa,1,2020,0.0
-Yendi Municipal,1,2015,9.048765887544722e-05
-Yendi Municipal,1,2016,9.048765887544722e-05
-Yendi Municipal,1,2017,9.048765887544722e-05
-Yendi Municipal,1,2018,0.0
-Yendi Municipal,1,2019,9.048765887544722e-05
-Yendi Municipal,1,2020,0.00018097531775089444
-Wa West,1,2015,0.0002007226013649137
-Wa West,1,2016,0.0
-Wa West,1,2017,0.0
-Wa West,1,2018,0.00030108390204737056
-Wa West,1,2019,0.00010036130068245684
-Wa West,1,2020,0.0
-Chereponi,1,2015,0.0
-Chereponi,1,2016,0.0
-Chereponi,1,2017,0.0
-Chereponi,1,2018,0.0
-Chereponi,1,2019,0.0
-Chereponi,1,2020,0.00037315331512797453
 Atwima Mponua,1,2015,0.00012957843814789222
 Atwima Mponua,1,2016,0.00032394609536973054
 Atwima Mponua,1,2017,0.000712681409813407
 Atwima Mponua,1,2018,0.00032394609536973054
 Atwima Mponua,1,2019,0.00032394609536973054
 Atwima Mponua,1,2020,0.0
-Upper Denkyira West,1,2015,0.0008494910505372657
-Upper Denkyira West,1,2016,0.0004023904976229154
-Upper Denkyira West,1,2017,0.0005365206634972206
-Upper Denkyira West,1,2018,0.0019225323775317067
-Upper Denkyira West,1,2019,0.0012518815481601814
-Upper Denkyira West,1,2020,0.0004023904976229154
-Ningo Prampram,1,2015,0.0
-Ningo Prampram,1,2016,0.00011542512516412009
-Ningo Prampram,1,2017,0.00028856281291030024
-Ningo Prampram,1,2018,0.00011542512516412009
-Ningo Prampram,1,2019,0.00023085025032824018
-Ningo Prampram,1,2020,0.0
-Wassa East,1,2015,0.00035931012456084314
-Wassa East,1,2016,0.0
-Wassa East,1,2017,0.00035931012456084314
-Wassa East,1,2018,0.00035931012456084314
-Wassa East,1,2019,0.00035931012456084314
-Wassa East,1,2020,0.00035931012456084314
 Amansie Central,1,2015,0.0012588709851377292
 Amansie Central,1,2016,0.0010388489829375094
 Amansie Central,1,2017,0.00022002200220022002
 Amansie Central,1,2018,0.0010388489829375094
 Amansie Central,1,2019,0.0008800880088008801
 Amansie Central,1,2020,0.00022002200220022002
-Bongo,1,2015,0.0
-Bongo,1,2016,0.0
-Bongo,1,2017,0.0
-Bongo,1,2018,0.0
-Bongo,1,2019,0.0
-Bongo,1,2020,0.0
+Upper Denkyira West,1,2015,0.0008494910505372657
+Upper Denkyira West,1,2016,0.0004023904976229154
+Upper Denkyira West,1,2017,0.0005365206634972206
+Upper Denkyira West,1,2018,0.0019225323775317067
+Upper Denkyira West,1,2019,0.0012518815481601814
+Upper Denkyira West,1,2020,0.0004023904976229154
+Kasena Nankana East,1,2015,4.893646336654362e-05
+Kasena Nankana East,1,2016,0.00016985228789844018
+Kasena Nankana East,1,2017,0.00015144172522413377
+Kasena Nankana East,1,2018,0.0
+Kasena Nankana East,1,2019,0.0
+Kasena Nankana East,1,2020,0.0002304289779880938
+Afadzato South,1,2015,0.0
+Afadzato South,1,2016,0.0
+Afadzato South,1,2017,0.0
+Afadzato South,1,2018,0.0
+Afadzato South,1,2019,0.0
+Afadzato South,1,2020,0.0
+Builsa North,1,2015,0.00021940048816608616
+Builsa North,1,2016,0.00032910073224912925
+Builsa North,1,2017,0.0009873021967473877
+Builsa North,1,2018,0.0005485012204152153
+Builsa North,1,2019,0.0004388009763321723
+Builsa North,1,2020,0.0006582014644982585
+Yendi Municipal,1,2015,9.048765887544722e-05
+Yendi Municipal,1,2016,9.048765887544722e-05
+Yendi Municipal,1,2017,9.048765887544722e-05
+Yendi Municipal,1,2018,0.0
+Yendi Municipal,1,2019,9.048765887544722e-05
+Yendi Municipal,1,2020,0.00018097531775089444
+Wassa East,1,2015,0.00035931012456084314
+Wassa East,1,2016,0.0
+Wassa East,1,2017,0.00035931012456084314
+Wassa East,1,2018,0.00035931012456084314
+Wassa East,1,2019,0.00035931012456084314
+Wassa East,1,2020,0.00035931012456084314
+Chereponi,1,2015,0.0
+Chereponi,1,2016,0.0
+Chereponi,1,2017,0.0
+Chereponi,1,2018,0.0
+Chereponi,1,2019,0.0
+Chereponi,1,2020,0.00037315331512797453
+Shai Osu Doku,1,2015,0.0
+Shai Osu Doku,1,2016,0.00024139040875442548
+Shai Osu Doku,1,2017,0.00028162214354682973
+Shai Osu Doku,1,2018,0.0
+Shai Osu Doku,1,2019,0.0
+Shai Osu Doku,1,2020,0.00015998031011567806
 Ahanta West,1,2015,0.0001896584423869377
 Ahanta West,1,2016,0.00011409933031299727
 Ahanta West,1,2017,0.0001896584423869377
 Ahanta West,1,2018,0.00026268201378725604
 Ahanta West,1,2019,7.758754461283816e-05
 Ahanta West,1,2020,0.0001896584423869377
-Binduri,1,2015,0.0
-Binduri,1,2016,0.0
-Binduri,1,2017,0.0
-Binduri,1,2018,0.0
-Binduri,1,2019,0.0
-Binduri,1,2020,0.0
-Builsa South,1,2015,0.0
-Builsa South,1,2016,0.0
-Builsa South,1,2017,0.0
-Builsa South,1,2018,0.0
-Builsa South,1,2019,0.0
-Builsa South,1,2020,0.0002584396704894201
 Obuasi Municipal,1,2015,7.444390403684478e-05
 Obuasi Municipal,1,2016,0.0
 Obuasi Municipal,1,2017,0.0
 Obuasi Municipal,1,2018,0.0
 Obuasi Municipal,1,2019,0.0
 Obuasi Municipal,1,2020,7.444390403684478e-05
-Prestea / Huni Valley,1,2015,8.617611936623621e-05
-Prestea / Huni Valley,1,2016,0.0005170567161974171
-Prestea / Huni Valley,1,2017,8.617611936623621e-05
-Prestea / Huni Valley,1,2018,0.00017235223873247242
-Prestea / Huni Valley,1,2019,0.00017235223873247242
-Prestea / Huni Valley,1,2020,8.617611936623621e-05
+Wa West,1,2015,0.0002007226013649137
+Wa West,1,2016,0.0
+Wa West,1,2017,0.0
+Wa West,1,2018,0.00030108390204737056
+Wa West,1,2019,0.00010036130068245684
+Wa West,1,2020,0.0
+Kasena Nankana West,1,2015,0.0
+Kasena Nankana West,1,2016,0.0
+Kasena Nankana West,1,2017,7.1567446354235e-05
+Kasena Nankana West,1,2018,0.0
+Kasena Nankana West,1,2019,0.0
+Kasena Nankana West,1,2020,0.0
 Atiwa,1,2015,0.0002630502133629508
 Atiwa,1,2016,0.0007233880867481147
 Atiwa,1,2017,0.0005261004267259016
@@ -449,12 +413,36 @@ Sefwi Bibiani / Anhwiaso Bekwai,1,2017,0.0
 Sefwi Bibiani / Anhwiaso Bekwai,1,2018,5.489464149878056e-05
 Sefwi Bibiani / Anhwiaso Bekwai,1,2019,5.489464149878056e-05
 Sefwi Bibiani / Anhwiaso Bekwai,1,2020,0.0
-Zabzugu,1,2015,0.0
-Zabzugu,1,2016,0.0
-Zabzugu,1,2017,0.0
-Zabzugu,1,2018,0.0
-Zabzugu,1,2019,0.0
-Zabzugu,1,2020,0.0
+Ningo Prampram,1,2015,0.0
+Ningo Prampram,1,2016,0.00011542512516412009
+Ningo Prampram,1,2017,0.00028856281291030024
+Ningo Prampram,1,2018,0.00011542512516412009
+Ningo Prampram,1,2019,0.00023085025032824018
+Ningo Prampram,1,2020,0.0
+Prestea / Huni Valley,1,2015,8.617611936623621e-05
+Prestea / Huni Valley,1,2016,0.0005170567161974171
+Prestea / Huni Valley,1,2017,8.617611936623621e-05
+Prestea / Huni Valley,1,2018,0.00017235223873247242
+Prestea / Huni Valley,1,2019,0.00017235223873247242
+Prestea / Huni Valley,1,2020,8.617611936623621e-05
+Asante Akim North,1,2015,0.0
+Asante Akim North,1,2016,0.0
+Asante Akim North,1,2017,0.0
+Asante Akim North,1,2018,0.0
+Asante Akim North,1,2019,0.0
+Asante Akim North,1,2020,0.0
+Builsa South,1,2015,0.0
+Builsa South,1,2016,0.0
+Builsa South,1,2017,0.0
+Builsa South,1,2018,0.0
+Builsa South,1,2019,0.0
+Builsa South,1,2020,0.0002584396704894201
+Tema Metropolis,1,2015,0.0
+Tema Metropolis,1,2016,0.0
+Tema Metropolis,1,2017,0.0
+Tema Metropolis,1,2018,0.0
+Tema Metropolis,1,2019,0.0
+Tema Metropolis,1,2020,0.0
 Nzema East,1,2015,0.00016532683047800118
 Nzema East,1,2016,0.0006613073219120047
 Nzema East,1,2017,0.00033065366095600237
@@ -467,192 +455,204 @@ Gomoa West,1,2017,0.002092081471629881
 Gomoa West,1,2018,0.0
 Gomoa West,1,2019,0.0
 Gomoa West,1,2020,0.00010460407358149404
-Tema Metropolis,1,2015,0.0
-Tema Metropolis,1,2016,0.0
-Tema Metropolis,1,2017,0.0
-Tema Metropolis,1,2018,0.0
-Tema Metropolis,1,2019,0.0
-Tema Metropolis,1,2020,0.0
-Lawra,1,2015,9.225234090315042e-05
-Lawra,1,2016,0.0
-Lawra,1,2017,0.0
-Lawra,1,2018,0.0
-Lawra,1,2019,0.0
-Lawra,1,2020,0.0
-Bawku West,1,2015,0.0
-Bawku West,1,2016,0.0
-Bawku West,1,2017,0.0
-Bawku West,1,2018,0.0
-Bawku West,1,2019,0.0
-Bawku West,1,2020,0.0
-Ketu North,1,2015,0.0
-Ketu North,1,2016,5.725573273023962e-05
-Ketu North,1,2017,0.0
-Ketu North,1,2018,0.0
-Ketu North,1,2019,0.0
-Ketu North,1,2020,0.0
-Nadowli / Kaleo,1,2015,7.077641729775638e-05
-Nadowli / Kaleo,1,2016,0.0
-Nadowli / Kaleo,1,2017,0.0
-Nadowli / Kaleo,1,2018,7.077641729775638e-05
-Nadowli / Kaleo,1,2019,0.0
-Nadowli / Kaleo,1,2020,0.0
-Akatsi South,1,2015,0.0
-Akatsi South,1,2016,0.0006809354876675018
-Akatsi South,1,2017,7.565949862972242e-05
-Akatsi South,1,2018,0.0
-Akatsi South,1,2019,0.0
-Akatsi South,1,2020,0.0
-Sawla / Tuna / Kalba,1,2015,0.0
-Sawla / Tuna / Kalba,1,2016,0.0
-Sawla / Tuna / Kalba,1,2017,0.0
-Sawla / Tuna / Kalba,1,2018,6.253452426860663e-05
-Sawla / Tuna / Kalba,1,2019,0.0
-Sawla / Tuna / Kalba,1,2020,0.0
 Aowin,1,2015,0.0002166808111085029
 Aowin,1,2016,0.0004333616222170058
 Aowin,1,2017,0.0
 Aowin,1,2018,0.0002527942796265868
 Aowin,1,2019,0.0003069644824037125
 Aowin,1,2020,0.0
+Binduri,1,2015,0.0
+Binduri,1,2016,0.0
+Binduri,1,2017,0.0
+Binduri,1,2018,0.0
+Binduri,1,2019,0.0
+Binduri,1,2020,0.0
 Wassa Amenfi Central,1,2015,0.000358803390692042
 Wassa Amenfi Central,1,2016,0.0005216719886238218
 Wassa Amenfi Central,1,2017,0.00038712071711430616
 Wassa Amenfi Central,1,2018,0.00038712071711430616
 Wassa Amenfi Central,1,2019,0.0004335540970862175
 Wassa Amenfi Central,1,2020,8.97008476730105e-05
-West Gonja,1,2015,0.0
-West Gonja,1,2016,0.0
-West Gonja,1,2017,0.0
-West Gonja,1,2018,0.0
-West Gonja,1,2019,0.0
-West Gonja,1,2020,0.0
-Mion,1,2015,0.0
-Mion,1,2016,0.0
-Mion,1,2017,0.0
-Mion,1,2018,0.0
-Mion,1,2019,0.0
-Mion,1,2020,0.0
-Wa East,1,2015,0.0
-Wa East,1,2016,0.0
-Wa East,1,2017,0.0
-Wa East,1,2018,0.0
-Wa East,1,2019,0.0
-Wa East,1,2020,0.00018414410901331253
+Bongo,1,2015,0.0
+Bongo,1,2016,0.0
+Bongo,1,2017,0.0
+Bongo,1,2018,0.0
+Bongo,1,2019,0.0
+Bongo,1,2020,0.0
+Lawra,1,2015,9.225234090315042e-05
+Lawra,1,2016,0.0
+Lawra,1,2017,0.0
+Lawra,1,2018,0.0
+Lawra,1,2019,0.0
+Lawra,1,2020,0.0
 Tamale North Sub Metro,1,2015,0.0
 Tamale North Sub Metro,1,2016,0.0
 Tamale North Sub Metro,1,2017,0.0
 Tamale North Sub Metro,1,2018,0.0
 Tamale North Sub Metro,1,2019,0.0
 Tamale North Sub Metro,1,2020,2.9767072656463177e-05
-Garu Tempane,1,2015,0.0
-Garu Tempane,1,2016,0.0
-Garu Tempane,1,2017,0.0
-Garu Tempane,1,2018,0.0
-Garu Tempane,1,2019,0.0
-Garu Tempane,1,2020,0.0
-Jirapa,1,2015,0.0
-Jirapa,1,2016,6.399044409368201e-05
-Jirapa,1,2017,6.399044409368201e-05
-Jirapa,1,2018,6.399044409368201e-05
-Jirapa,1,2019,6.399044409368201e-05
-Jirapa,1,2020,0.00012798088818736402
-Mamprusi East,1,2015,0.0
-Mamprusi East,1,2016,0.0
-Mamprusi East,1,2017,0.0
-Mamprusi East,1,2018,0.0
-Mamprusi East,1,2019,0.0
-Mamprusi East,1,2020,0.0
-Nandom,1,2015,0.0
-Nandom,1,2016,0.0
-Nandom,1,2017,0.0
-Nandom,1,2018,0.0
-Nandom,1,2019,0.0
-Nandom,1,2020,0.0
+Wa East,1,2015,0.0
+Wa East,1,2016,0.0
+Wa East,1,2017,0.0
+Wa East,1,2018,0.0
+Wa East,1,2019,0.0
+Wa East,1,2020,0.00018414410901331253
+Nadowli / Kaleo,1,2015,7.077641729775638e-05
+Nadowli / Kaleo,1,2016,0.0
+Nadowli / Kaleo,1,2017,0.0
+Nadowli / Kaleo,1,2018,7.077641729775638e-05
+Nadowli / Kaleo,1,2019,0.0
+Nadowli / Kaleo,1,2020,0.0
+Bawku West,1,2015,0.0
+Bawku West,1,2016,0.0
+Bawku West,1,2017,0.0
+Bawku West,1,2018,0.0
+Bawku West,1,2019,0.0
+Bawku West,1,2020,0.0
 Wassa Amenfi East,1,2015,0.00038301280191274266
 Wassa Amenfi East,1,2016,0.0009178652600561344
 Wassa Amenfi East,1,2017,0.0002911170387443734
 Wassa Amenfi East,1,2018,0.00039557507562966687
 Wassa Amenfi East,1,2019,0.00017409672814215578
 Wassa Amenfi East,1,2020,0.00010445803688529348
+Zabzugu,1,2015,0.0
+Zabzugu,1,2016,0.0
+Zabzugu,1,2017,0.0
+Zabzugu,1,2018,0.0
+Zabzugu,1,2019,0.0
+Zabzugu,1,2020,0.0
+Garu Tempane,1,2015,0.0
+Garu Tempane,1,2016,0.0
+Garu Tempane,1,2017,0.0
+Garu Tempane,1,2018,0.0
+Garu Tempane,1,2019,0.0
+Garu Tempane,1,2020,0.0
+Mion,1,2015,0.0
+Mion,1,2016,0.0
+Mion,1,2017,0.0
+Mion,1,2018,0.0
+Mion,1,2019,0.0
+Mion,1,2020,0.0
+Akatsi South,1,2015,0.0
+Akatsi South,1,2016,0.0006809354876675018
+Akatsi South,1,2017,7.565949862972242e-05
+Akatsi South,1,2018,0.0
+Akatsi South,1,2019,0.0
+Akatsi South,1,2020,0.0
+Ketu North,1,2015,0.0
+Ketu North,1,2016,5.725573273023962e-05
+Ketu North,1,2017,0.0
+Ketu North,1,2018,0.0
+Ketu North,1,2019,0.0
+Ketu North,1,2020,0.0
+Jirapa,1,2015,0.0
+Jirapa,1,2016,6.399044409368201e-05
+Jirapa,1,2017,6.399044409368201e-05
+Jirapa,1,2018,6.399044409368201e-05
+Jirapa,1,2019,6.399044409368201e-05
+Jirapa,1,2020,0.00012798088818736402
+Sawla / Tuna / Kalba,1,2015,0.0
+Sawla / Tuna / Kalba,1,2016,0.0
+Sawla / Tuna / Kalba,1,2017,0.0
+Sawla / Tuna / Kalba,1,2018,6.253452426860663e-05
+Sawla / Tuna / Kalba,1,2019,0.0
+Sawla / Tuna / Kalba,1,2020,0.0
+West Gonja,1,2015,0.0
+West Gonja,1,2016,0.0
+West Gonja,1,2017,0.0
+West Gonja,1,2018,0.0
+West Gonja,1,2019,0.0
+West Gonja,1,2020,0.0
+Adansi South,1,2015,0.0001421841379375717
+Adansi South,1,2016,0.0
+Adansi South,1,2017,0.0
+Adansi South,1,2018,0.0
+Adansi South,1,2019,0.0
+Adansi South,1,2020,0.0
+Ga Central Municipal,1,2015,0.0
+Ga Central Municipal,1,2016,6.070949159173542e-05
+Ga Central Municipal,1,2017,0.0
+Ga Central Municipal,1,2018,0.00012141898318347084
+Ga Central Municipal,1,2019,0.0
+Ga Central Municipal,1,2020,0.0
 Talensi,1,2015,0.0
 Talensi,1,2016,0.0
 Talensi,1,2017,0.0
 Talensi,1,2018,0.0
 Talensi,1,2019,0.0
 Talensi,1,2020,9.74184120798831e-05
-Ga Central Municipal,0,2015,0.0
-Ga Central Municipal,0,2016,6.070949159173542e-05
-Ga Central Municipal,0,2017,0.0
-Ga Central Municipal,0,2018,0.00012141898318347084
-Ga Central Municipal,0,2019,0.0
-Ga Central Municipal,0,2020,0.0
-Kpone Katamanso,0,2015,0.0
-Kpone Katamanso,0,2016,0.0
-Kpone Katamanso,0,2017,0.0
-Kpone Katamanso,0,2018,0.0
-Kpone Katamanso,0,2019,0.0
-Kpone Katamanso,0,2020,0.0
-Atwima Nwabiagya,0,2015,0.0
-Atwima Nwabiagya,0,2016,0.0
-Atwima Nwabiagya,0,2017,2.368433518071148e-05
-Atwima Nwabiagya,0,2018,0.0
-Atwima Nwabiagya,0,2019,0.0
-Atwima Nwabiagya,0,2020,0.0
-Tarkwa Nsuaem,0,2015,0.0002837047106803003
-Tarkwa Nsuaem,0,2016,0.0
-Tarkwa Nsuaem,0,2017,0.0
-Tarkwa Nsuaem,0,2018,9.456823689343342e-05
-Tarkwa Nsuaem,0,2019,0.0
-Tarkwa Nsuaem,0,2020,0.0
-Adansi South,0,2015,0.0001421841379375717
-Adansi South,0,2016,0.0
-Adansi South,0,2017,0.0
-Adansi South,0,2018,0.0
-Adansi South,0,2019,0.0
-Adansi South,0,2020,0.0
 Ellembelle,0,2015,0.0
 Ellembelle,0,2016,0.0006933610677760443
 Ellembelle,0,2017,0.0
 Ellembelle,0,2018,0.010400416016640664
 Ellembelle,0,2019,0.0
 Ellembelle,0,2020,0.00011556017796267407
-Effutu,0,2015,0.0
-Effutu,0,2016,0.0
-Effutu,0,2017,0.0
-Effutu,0,2018,0.00038898208251282433
-Effutu,0,2019,0.0
-Effutu,0,2020,0.0007779641650256485
-Tatale,0,2015,0.0
-Tatale,0,2016,0.0
-Tatale,0,2017,0.0
-Tatale,0,2018,0.0
-Tatale,0,2019,0.0
-Tatale,0,2020,0.0
-Wassa Amenfi West,0,2015,6.578226071702664e-05
-Wassa Amenfi West,0,2016,0.00017541936191207104
-Wassa Amenfi West,0,2017,0.0001096371011950444
-Wassa Amenfi West,0,2018,0.0001096371011950444
-Wassa Amenfi West,0,2019,0.00017541936191207104
-Wassa Amenfi West,0,2020,0.0
-Assin North,0,2015,0.0
-Assin North,0,2016,0.0
-Assin North,0,2017,0.0
-Assin North,0,2018,0.0
-Assin North,0,2019,0.0
-Assin North,0,2020,0.0
-Birim North,0,2015,0.0
-Birim North,0,2016,0.00013727560718057022
-Birim North,0,2017,0.0
-Birim North,0,2018,0.00013727560718057022
-Birim North,0,2019,0.0
-Birim North,0,2020,0.0
+Kpone Katamanso,0,2015,0.0
+Kpone Katamanso,0,2016,0.0
+Kpone Katamanso,0,2017,0.0
+Kpone Katamanso,0,2018,0.0
+Kpone Katamanso,0,2019,0.0
+Kpone Katamanso,0,2020,0.0
+Mamprusi East,0,2015,0.0
+Mamprusi East,0,2016,0.0
+Mamprusi East,0,2017,0.0
+Mamprusi East,0,2018,0.0
+Mamprusi East,0,2019,0.0
+Mamprusi East,0,2020,0.0
+Nandom,0,2015,0.0
+Nandom,0,2016,0.0
+Nandom,0,2017,0.0
+Nandom,0,2018,0.0
+Nandom,0,2019,0.0
+Nandom,0,2020,0.0
 Ejisu Juaben,0,2015,0.0
 Ejisu Juaben,0,2016,0.0001266194172720359
 Ejisu Juaben,0,2017,7.089048280926279e-05
 Ejisu Juaben,0,2018,6.966116807846634e-05
 Ejisu Juaben,0,2019,5.9362242444904835e-05
 Ejisu Juaben,0,2020,0.0
+Tarkwa Nsuaem,0,2015,0.0002837047106803003
+Tarkwa Nsuaem,0,2016,0.0
+Tarkwa Nsuaem,0,2017,0.0
+Tarkwa Nsuaem,0,2018,9.456823689343342e-05
+Tarkwa Nsuaem,0,2019,0.0
+Tarkwa Nsuaem,0,2020,0.0
+Wassa Amenfi West,0,2015,6.578226071702664e-05
+Wassa Amenfi West,0,2016,0.00017541936191207104
+Wassa Amenfi West,0,2017,0.0001096371011950444
+Wassa Amenfi West,0,2018,0.0001096371011950444
+Wassa Amenfi West,0,2019,0.00017541936191207104
+Wassa Amenfi West,0,2020,0.0
+Agona East,0,2015,0.00024021138601969727
+Agona East,0,2016,0.0
+Agona East,0,2017,0.00012010569300984866
+Agona East,0,2018,0.0
+Agona East,0,2019,0.00024021138601969727
+Agona East,0,2020,0.00012010569300984866
+Birim North,0,2015,0.0
+Birim North,0,2016,0.00013727560718057022
+Birim North,0,2017,0.0
+Birim North,0,2018,0.00013727560718057022
+Birim North,0,2019,0.0
+Birim North,0,2020,0.0
+Asante Akim Central Municipal,0,2015,0.0
+Asante Akim Central Municipal,0,2016,0.00016170703284655564
+Asante Akim Central Municipal,0,2017,0.00016170703284655564
+Asante Akim Central Municipal,0,2018,0.00010088145168408972
+Asante Akim Central Municipal,0,2019,0.00025784112209845285
+Asante Akim Central Municipal,0,2020,0.0
+Atwima Nwabiagya,0,2015,0.0
+Atwima Nwabiagya,0,2016,0.0
+Atwima Nwabiagya,0,2017,2.368433518071148e-05
+Atwima Nwabiagya,0,2018,0.0
+Atwima Nwabiagya,0,2019,0.0
+Atwima Nwabiagya,0,2020,0.0
+Gomoa East,0,2015,0.0
+Gomoa East,0,2016,0.0
+Gomoa East,0,2017,0.0
+Gomoa East,0,2018,0.0
+Gomoa East,0,2019,3.122219273459575e-05
+Gomoa East,0,2020,0.0
 Sissala East,0,2015,0.0
 Sissala East,0,2016,0.0
 Sissala East,0,2017,0.0
@@ -665,120 +665,120 @@ Bunkpurugu Yonyo,0,2017,0.0
 Bunkpurugu Yonyo,0,2018,0.0
 Bunkpurugu Yonyo,0,2019,0.0
 Bunkpurugu Yonyo,0,2020,0.0
-Sissala  West,0,2015,0.0
-Sissala  West,0,2016,0.0
-Sissala  West,0,2017,0.0
-Sissala  West,0,2018,0.0
-Sissala  West,0,2019,0.0
-Sissala  West,0,2020,0.0
-Agona East,0,2015,0.00024021138601969727
-Agona East,0,2016,0.0
-Agona East,0,2017,0.00012010569300984866
-Agona East,0,2018,0.0
-Agona East,0,2019,0.00024021138601969727
-Agona East,0,2020,0.00012010569300984866
-Asante Akim Central Municipal,0,2015,0.0
-Asante Akim Central Municipal,0,2016,0.00016170703284655564
-Asante Akim Central Municipal,0,2017,0.00016170703284655564
-Asante Akim Central Municipal,0,2018,0.00010088145168408972
-Asante Akim Central Municipal,0,2019,0.00025784112209845285
-Asante Akim Central Municipal,0,2020,0.0
-Asutifi North,0,2015,0.0
-Asutifi North,0,2016,0.0
-Asutifi North,0,2017,0.0
-Asutifi North,0,2018,0.0
-Asutifi North,0,2019,0.0
-Asutifi North,0,2020,0.0
-Gomoa East,0,2015,0.0
-Gomoa East,0,2016,0.0
-Gomoa East,0,2017,0.0
-Gomoa East,0,2018,0.0
-Gomoa East,0,2019,3.122219273459575e-05
-Gomoa East,0,2020,0.0
+Tatale,0,2015,0.0
+Tatale,0,2016,0.0
+Tatale,0,2017,0.0
+Tatale,0,2018,0.0
+Tatale,0,2019,0.0
+Tatale,0,2020,0.0
+Effutu,0,2015,0.0
+Effutu,0,2016,0.0
+Effutu,0,2017,0.0
+Effutu,0,2018,0.00038898208251282433
+Effutu,0,2019,0.0
+Effutu,0,2020,0.0007779641650256485
 Adenta,0,2015,0.0
 Adenta,0,2016,5.171566726139684e-05
 Adenta,0,2017,5.171566726139684e-05
 Adenta,0,2018,5.171566726139684e-05
 Adenta,0,2019,0.0
 Adenta,0,2020,0.0
-Daffiama Bussie,0,2015,0.0
-Daffiama Bussie,0,2016,0.0
-Daffiama Bussie,0,2017,0.00014129782048111908
-Daffiama Bussie,0,2018,0.0
-Daffiama Bussie,0,2019,0.0
-Daffiama Bussie,0,2020,0.0
-Lambussie Karni,0,2015,0.0
-Lambussie Karni,0,2016,0.0
-Lambussie Karni,0,2017,0.0
-Lambussie Karni,0,2018,0.0
-Lambussie Karni,0,2019,0.0
-Lambussie Karni,0,2020,0.0
 Kwaebibirem,0,2015,7.796190261692121e-05
 Kwaebibirem,0,2016,7.796190261692121e-05
 Kwaebibirem,0,2017,0.0
 Kwaebibirem,0,2018,0.0
 Kwaebibirem,0,2019,0.0
 Kwaebibirem,0,2020,7.796190261692121e-05
-Bolgatanga Municipal,0,2015,0.0
-Bolgatanga Municipal,0,2016,0.0
-Bolgatanga Municipal,0,2017,0.0
-Bolgatanga Municipal,0,2018,0.0
-Bolgatanga Municipal,0,2019,0.0
-Bolgatanga Municipal,0,2020,0.0
-Bawku Municipal,0,2015,0.0
-Bawku Municipal,0,2016,0.0
-Bawku Municipal,0,2017,0.0
-Bawku Municipal,0,2018,0.0
-Bawku Municipal,0,2019,0.0
-Bawku Municipal,0,2020,0.0
+Assin North,0,2015,0.0
+Assin North,0,2016,0.0
+Assin North,0,2017,0.0
+Assin North,0,2018,0.0
+Assin North,0,2019,0.0
+Assin North,0,2020,0.0
+Sissala  West,0,2015,0.0
+Sissala  West,0,2016,0.0
+Sissala  West,0,2017,0.0
+Sissala  West,0,2018,0.0
+Sissala  West,0,2019,0.0
+Sissala  West,0,2020,0.0
 La Nkwantanang Madina,0,2015,0.0
 La Nkwantanang Madina,0,2016,0.0
 La Nkwantanang Madina,0,2017,0.0
 La Nkwantanang Madina,0,2018,0.0
 La Nkwantanang Madina,0,2019,0.0
 La Nkwantanang Madina,0,2020,0.0
+Daffiama Bussie,0,2015,0.0
+Daffiama Bussie,0,2016,0.0
+Daffiama Bussie,0,2017,0.00014129782048111908
+Daffiama Bussie,0,2018,0.0
+Daffiama Bussie,0,2019,0.0
+Daffiama Bussie,0,2020,0.0
 Sagnerigu,0,2015,0.0
 Sagnerigu,0,2016,0.0
 Sagnerigu,0,2017,0.0
 Sagnerigu,0,2018,0.0
 Sagnerigu,0,2019,0.0
 Sagnerigu,0,2020,0.0
+Asutifi North,0,2015,0.0
+Asutifi North,0,2016,0.0
+Asutifi North,0,2017,0.0
+Asutifi North,0,2018,0.0
+Asutifi North,0,2019,0.0
+Asutifi North,0,2020,0.0
+Bolgatanga Municipal,0,2015,0.0
+Bolgatanga Municipal,0,2016,0.0
+Bolgatanga Municipal,0,2017,0.0
+Bolgatanga Municipal,0,2018,0.0
+Bolgatanga Municipal,0,2019,0.0
+Bolgatanga Municipal,0,2020,0.0
+Lambussie Karni,0,2015,0.0
+Lambussie Karni,0,2016,0.0
+Lambussie Karni,0,2017,0.0
+Lambussie Karni,0,2018,0.0
+Lambussie Karni,0,2019,0.0
+Lambussie Karni,0,2020,0.0
+Bawku Municipal,0,2015,0.0
+Bawku Municipal,0,2016,0.0
+Bawku Municipal,0,2017,0.0
+Bawku Municipal,0,2018,0.0
+Bawku Municipal,0,2019,0.0
+Bawku Municipal,0,2020,0.0
 Wa Municipal,0,2015,0.0
 Wa Municipal,0,2016,0.0
 Wa Municipal,0,2017,0.0
 Wa Municipal,0,2018,0.0
 Wa Municipal,0,2019,0.0
 Wa Municipal,0,2020,0.0
-West Akim,0,2015,0.0
-West Akim,0,2016,0.0
-West Akim,0,2017,0.0
-West Akim,0,2018,0.0
-West Akim,0,2019,0.0
-West Akim,0,2020,0.0
-Upper Denkyira East,0,2015,0.0
-Upper Denkyira East,0,2016,0.0003875217981011432
-Upper Denkyira East,0,2017,0.0
-Upper Denkyira East,0,2018,0.0
-Upper Denkyira East,0,2019,0.0
-Upper Denkyira East,0,2020,0.0
-Pusiga,0,2015,0.0
-Pusiga,0,2016,0.0
-Pusiga,0,2017,0.0
-Pusiga,0,2018,0.0
-Pusiga,0,2019,0.0
-Pusiga,0,2020,0.0
-Atebubu Amantin,0,2015,0.0
-Atebubu Amantin,0,2016,0.0
-Atebubu Amantin,0,2017,0.0
-Atebubu Amantin,0,2018,0.0
-Atebubu Amantin,0,2019,0.0
-Atebubu Amantin,0,2020,0.0
 Gushiegu,0,2015,0.0
 Gushiegu,0,2016,0.0
 Gushiegu,0,2017,0.0
 Gushiegu,0,2018,0.0
 Gushiegu,0,2019,0.0
 Gushiegu,0,2020,0.0
+West Akim,0,2015,0.0
+West Akim,0,2016,0.0
+West Akim,0,2017,0.0
+West Akim,0,2018,0.0
+West Akim,0,2019,0.0
+West Akim,0,2020,0.0
+Atebubu Amantin,0,2015,0.0
+Atebubu Amantin,0,2016,0.0
+Atebubu Amantin,0,2017,0.0
+Atebubu Amantin,0,2018,0.0
+Atebubu Amantin,0,2019,0.0
+Atebubu Amantin,0,2020,0.0
+Pusiga,0,2015,0.0
+Pusiga,0,2016,0.0
+Pusiga,0,2017,0.0
+Pusiga,0,2018,0.0
+Pusiga,0,2019,0.0
+Pusiga,0,2020,0.0
+Upper Denkyira East,0,2015,0.0
+Upper Denkyira East,0,2016,0.0003875217981011432
+Upper Denkyira East,0,2017,0.0
+Upper Denkyira East,0,2018,0.0
+Upper Denkyira East,0,2019,0.0
+Upper Denkyira East,0,2020,0.0
 Awutu Senya West,0,2015,0.0
 Awutu Senya West,0,2016,0.0005494203615185978
 Awutu Senya West,0,2017,0.0
@@ -791,42 +791,48 @@ Yilo Krobo,0,2017,0.0
 Yilo Krobo,0,2018,0.0
 Yilo Krobo,0,2019,0.0
 Yilo Krobo,0,2020,0.0
-Ajumako / Enyan / Esiam,0,2015,0.0
-Ajumako / Enyan / Esiam,0,2016,0.0
-Ajumako / Enyan / Esiam,0,2017,0.0
-Ajumako / Enyan / Esiam,0,2018,0.0
-Ajumako / Enyan / Esiam,0,2019,0.0
-Ajumako / Enyan / Esiam,0,2020,0.0
 Denkyembour,0,2015,0.0
 Denkyembour,0,2016,0.0
 Denkyembour,0,2017,0.0
 Denkyembour,0,2018,0.0
 Denkyembour,0,2019,0.0
 Denkyembour,0,2020,0.0
-Birim Municipal,0,2015,0.0
-Birim Municipal,0,2016,0.0
-Birim Municipal,0,2017,0.0
-Birim Municipal,0,2018,6.318982222596679e-05
-Birim Municipal,0,2019,0.0
-Birim Municipal,0,2020,0.0
-Nabdam,0,2015,0.0
-Nabdam,0,2016,0.0
-Nabdam,0,2017,0.0
-Nabdam,0,2018,0.0
-Nabdam,0,2019,0.0
-Nabdam,0,2020,0.0
-Kwahu West,0,2015,0.0
-Kwahu West,0,2016,0.0
-Kwahu West,0,2017,0.0
-Kwahu West,0,2018,0.0
-Kwahu West,0,2019,0.0
-Kwahu West,0,2020,0.0
 Kintampo South,0,2015,0.0
 Kintampo South,0,2016,0.0
 Kintampo South,0,2017,0.0
 Kintampo South,0,2018,0.0
 Kintampo South,0,2019,0.0
 Kintampo South,0,2020,0.0
+Ajumako / Enyan / Esiam,0,2015,0.0
+Ajumako / Enyan / Esiam,0,2016,0.0
+Ajumako / Enyan / Esiam,0,2017,0.0
+Ajumako / Enyan / Esiam,0,2018,0.0
+Ajumako / Enyan / Esiam,0,2019,0.0
+Ajumako / Enyan / Esiam,0,2020,0.0
+Nabdam,0,2015,0.0
+Nabdam,0,2016,0.0
+Nabdam,0,2017,0.0
+Nabdam,0,2018,0.0
+Nabdam,0,2019,0.0
+Nabdam,0,2020,0.0
+Birim Municipal,0,2015,0.0
+Birim Municipal,0,2016,0.0
+Birim Municipal,0,2017,0.0
+Birim Municipal,0,2018,6.318982222596679e-05
+Birim Municipal,0,2019,0.0
+Birim Municipal,0,2020,0.0
+Kwahu East,0,2015,0.0
+Kwahu East,0,2016,0.0
+Kwahu East,0,2017,0.0
+Kwahu East,0,2018,0.0
+Kwahu East,0,2019,0.0
+Kwahu East,0,2020,0.0
+Kwahu West,0,2015,0.0
+Kwahu West,0,2016,0.0
+Kwahu West,0,2017,0.0
+Kwahu West,0,2018,0.0
+Kwahu West,0,2019,0.0
+Kwahu West,0,2020,0.0
 Adaklu,0,2015,0.0
 Adaklu,0,2016,0.00026570506737521346
 Adaklu,0,2017,0.0
@@ -839,48 +845,42 @@ Awutu Senya East Municipal,0,2017,0.0
 Awutu Senya East Municipal,0,2018,0.0
 Awutu Senya East Municipal,0,2019,0.0
 Awutu Senya East Municipal,0,2020,5.889715085032761e-05
-Kwahu East,0,2015,0.0
-Kwahu East,0,2016,0.0
-Kwahu East,0,2017,0.0
-Kwahu East,0,2018,0.0
-Kwahu East,0,2019,0.0
-Kwahu East,0,2020,0.0
-Afigya Kwabre,0,2015,0.0
-Afigya Kwabre,0,2016,0.0
-Afigya Kwabre,0,2017,0.0
-Afigya Kwabre,0,2018,0.0
-Afigya Kwabre,0,2019,0.0
-Afigya Kwabre,0,2020,0.0
 Akatsi North,0,2015,0.0
 Akatsi North,0,2016,0.001011425360554411
 Akatsi North,0,2017,0.0
 Akatsi North,0,2018,0.0
 Akatsi North,0,2019,0.0
 Akatsi North,0,2020,0.0
-La Dade Kotopon,0,2015,0.0
-La Dade Kotopon,0,2016,0.0
-La Dade Kotopon,0,2017,0.0
-La Dade Kotopon,0,2018,0.0
-La Dade Kotopon,0,2019,0.0
-La Dade Kotopon,0,2020,0.0
+Afigya Kwabre,0,2015,0.0
+Afigya Kwabre,0,2016,0.0
+Afigya Kwabre,0,2017,0.0
+Afigya Kwabre,0,2018,0.0
+Afigya Kwabre,0,2019,0.0
+Afigya Kwabre,0,2020,0.0
 Atwima Kwanwoma,0,2015,0.0
 Atwima Kwanwoma,0,2016,0.0
 Atwima Kwanwoma,0,2017,0.0
 Atwima Kwanwoma,0,2018,0.0
 Atwima Kwanwoma,0,2019,0.0
 Atwima Kwanwoma,0,2020,0.0
-Abura / Asebu / Kwamankese,0,2015,0.0
-Abura / Asebu / Kwamankese,0,2016,0.0
-Abura / Asebu / Kwamankese,0,2017,0.0
-Abura / Asebu / Kwamankese,0,2018,0.0
-Abura / Asebu / Kwamankese,0,2019,0.0
-Abura / Asebu / Kwamankese,0,2020,0.0
+La Dade Kotopon,0,2015,0.0
+La Dade Kotopon,0,2016,0.0
+La Dade Kotopon,0,2017,0.0
+La Dade Kotopon,0,2018,0.0
+La Dade Kotopon,0,2019,0.0
+La Dade Kotopon,0,2020,0.0
 Ga West,0,2015,0.0
 Ga West,0,2016,0.0008655456970900293
 Ga West,0,2017,0.0
 Ga West,0,2018,0.0
 Ga West,0,2019,0.0
 Ga West,0,2020,0.0
+Abura / Asebu / Kwamankese,0,2015,0.0
+Abura / Asebu / Kwamankese,0,2016,0.0
+Abura / Asebu / Kwamankese,0,2017,0.0
+Abura / Asebu / Kwamankese,0,2018,0.0
+Abura / Asebu / Kwamankese,0,2019,0.0
+Abura / Asebu / Kwamankese,0,2020,0.0
 Sekondi Takoradi,0,2015,0.0
 Sekondi Takoradi,0,2016,0.0
 Sekondi Takoradi,0,2017,0.0
@@ -899,24 +899,30 @@ Tain,0,2017,0.0
 Tain,0,2018,0.0
 Tain,0,2019,0.0
 Tain,0,2020,0.0
-East Akim,0,2015,0.0
-East Akim,0,2016,0.0
-East Akim,0,2017,0.0
-East Akim,0,2018,0.0
-East Akim,0,2019,0.0
-East Akim,0,2020,0.0
 Bekwai Municipal,0,2015,0.0
 Bekwai Municipal,0,2016,0.0
 Bekwai Municipal,0,2017,0.0
 Bekwai Municipal,0,2018,0.0
 Bekwai Municipal,0,2019,0.0
 Bekwai Municipal,0,2020,0.0
+East Akim,0,2015,0.0
+East Akim,0,2016,0.0
+East Akim,0,2017,0.0
+East Akim,0,2018,0.0
+East Akim,0,2019,0.0
+East Akim,0,2020,0.0
 Bosome Freho,0,2015,0.0
 Bosome Freho,0,2016,0.0
 Bosome Freho,0,2017,0.0
 Bosome Freho,0,2018,0.0
 Bosome Freho,0,2019,0.0
 Bosome Freho,0,2020,0.0
+Ejura Sekye Dumase,0,2015,0.0
+Ejura Sekye Dumase,0,2016,0.0
+Ejura Sekye Dumase,0,2017,0.0
+Ejura Sekye Dumase,0,2018,0.0
+Ejura Sekye Dumase,0,2019,0.0
+Ejura Sekye Dumase,0,2020,0.0
 Ahafo Ano South,0,2015,0.0
 Ahafo Ano South,0,2016,0.0
 Ahafo Ano South,0,2017,0.0
@@ -929,42 +935,42 @@ Agotime Ziope,0,2017,0.0
 Agotime Ziope,0,2018,0.0
 Agotime Ziope,0,2019,0.0
 Agotime Ziope,0,2020,0.0
-Mpohor,0,2015,0.0
-Mpohor,0,2016,0.0
-Mpohor,0,2017,0.0
-Mpohor,0,2018,0.0
-Mpohor,0,2019,0.0
-Mpohor,0,2020,0.0
-Ejura Sekye Dumase,0,2015,0.0
-Ejura Sekye Dumase,0,2016,0.0
-Ejura Sekye Dumase,0,2017,0.0
-Ejura Sekye Dumase,0,2018,0.0
-Ejura Sekye Dumase,0,2019,0.0
-Ejura Sekye Dumase,0,2020,0.0
-Sekyere Central,0,2015,0.0
-Sekyere Central,0,2016,0.0
-Sekyere Central,0,2017,0.0
-Sekyere Central,0,2018,0.0
-Sekyere Central,0,2019,0.0
-Sekyere Central,0,2020,0.0
-Twifo Lower Denkyira,0,2015,0.0
-Twifo Lower Denkyira,0,2016,0.0
-Twifo Lower Denkyira,0,2017,0.0
-Twifo Lower Denkyira,0,2018,0.0
-Twifo Lower Denkyira,0,2019,0.0
-Twifo Lower Denkyira,0,2020,0.0
-Akwapem South,0,2015,0.0
-Akwapem South,0,2016,0.0
-Akwapem South,0,2017,0.0
-Akwapem South,0,2018,0.0
-Akwapem South,0,2019,0.0
-Akwapem South,0,2020,0.0
 Nsawam Adoagyiri,0,2015,0.0
 Nsawam Adoagyiri,0,2016,0.008040030890645
 Nsawam Adoagyiri,0,2017,0.0
 Nsawam Adoagyiri,0,2018,0.0
 Nsawam Adoagyiri,0,2019,0.0
 Nsawam Adoagyiri,0,2020,0.0
+Sekyere Central,0,2015,0.0
+Sekyere Central,0,2016,0.0
+Sekyere Central,0,2017,0.0
+Sekyere Central,0,2018,0.0
+Sekyere Central,0,2019,0.0
+Sekyere Central,0,2020,0.0
+Akwapem South,0,2015,0.0
+Akwapem South,0,2016,0.0
+Akwapem South,0,2017,0.0
+Akwapem South,0,2018,0.0
+Akwapem South,0,2019,0.0
+Akwapem South,0,2020,0.0
+Mpohor,0,2015,0.0
+Mpohor,0,2016,0.0
+Mpohor,0,2017,0.0
+Mpohor,0,2018,0.0
+Mpohor,0,2019,0.0
+Mpohor,0,2020,0.0
+Twifo Lower Denkyira,0,2015,0.0
+Twifo Lower Denkyira,0,2016,0.0
+Twifo Lower Denkyira,0,2017,0.0
+Twifo Lower Denkyira,0,2018,0.0
+Twifo Lower Denkyira,0,2019,0.0
+Twifo Lower Denkyira,0,2020,0.0
+Ahafo Ano North,0,2015,0.0
+Ahafo Ano North,0,2016,0.0
+Ahafo Ano North,0,2017,0.0
+Ahafo Ano North,0,2018,0.0
+Ahafo Ano North,0,2019,0.0
+Ahafo Ano North,0,2020,0.0
 Sekyere Afram Plains North,0,2015,0.0
 Sekyere Afram Plains North,0,2016,0.0
 Sekyere Afram Plains North,0,2017,0.0
@@ -983,42 +989,42 @@ Ho West,0,2017,0.0
 Ho West,0,2018,0.0
 Ho West,0,2019,0.0
 Ho West,0,2020,0.0
-Ahafo Ano North,0,2015,0.0
-Ahafo Ano North,0,2016,0.0
-Ahafo Ano North,0,2017,0.0
-Ahafo Ano North,0,2018,0.0
-Ahafo Ano North,0,2019,0.0
-Ahafo Ano North,0,2020,0.0
-Wenchi,0,2015,0.0
-Wenchi,0,2016,0.0
-Wenchi,0,2017,0.0
-Wenchi,0,2018,0.0
-Wenchi,0,2019,0.0
-Wenchi,0,2020,0.0
 Ho Municipal,0,2015,0.0
 Ho Municipal,0,2016,0.0
 Ho Municipal,0,2017,0.0
 Ho Municipal,0,2018,0.0
 Ho Municipal,0,2019,0.0
 Ho Municipal,0,2020,0.0
+Wenchi,0,2015,0.0
+Wenchi,0,2016,0.0
+Wenchi,0,2017,0.0
+Wenchi,0,2018,0.0
+Wenchi,0,2019,0.0
+Wenchi,0,2020,0.0
 Asante Akim South,0,2015,0.0
 Asante Akim South,0,2016,0.0
 Asante Akim South,0,2017,0.0
 Asante Akim South,0,2018,0.0
 Asante Akim South,0,2019,0.0
 Asante Akim South,0,2020,0.0
-Berekum,0,2015,0.0
-Berekum,0,2016,0.0
-Berekum,0,2017,0.0
-Berekum,0,2018,0.0
-Berekum,0,2019,0.0
-Berekum,0,2020,0.0
 Ashaiman,0,2015,0.0
 Ashaiman,0,2016,0.0
 Ashaiman,0,2017,0.0
 Ashaiman,0,2018,0.0
 Ashaiman,0,2019,0.0
 Ashaiman,0,2020,0.0
+Berekum,0,2015,0.0
+Berekum,0,2016,0.0
+Berekum,0,2017,0.0
+Berekum,0,2018,0.0
+Berekum,0,2019,0.0
+Berekum,0,2020,0.0
+Asutifi South,0,2015,0.0
+Asutifi South,0,2016,0.0
+Asutifi South,0,2017,0.0
+Asutifi South,0,2018,0.0
+Asutifi South,0,2019,0.0
+Asutifi South,0,2020,0.0
 Sekyere East,0,2015,0.0
 Sekyere East,0,2016,0.0
 Sekyere East,0,2017,0.0
@@ -1043,126 +1049,186 @@ Adansi North,0,2017,0.0
 Adansi North,0,2018,0.0
 Adansi North,0,2019,0.0
 Adansi North,0,2020,0.0
-Asutifi South,0,2015,0.0
-Asutifi South,0,2016,0.0
-Asutifi South,0,2017,0.0
-Asutifi South,0,2018,0.0
-Asutifi South,0,2019,0.0
-Asutifi South,0,2020,0.0
-Sefwi-Wiawso,0,2015,0.0
-Sefwi-Wiawso,0,2016,0.0
-Sefwi-Wiawso,0,2017,0.0
-Sefwi-Wiawso,0,2018,0.0
-Sefwi-Wiawso,0,2019,0.0
-Sefwi-Wiawso,0,2020,0.0
 Ayensuano,0,2015,0.0
 Ayensuano,0,2016,0.0
 Ayensuano,0,2017,0.0
 Ayensuano,0,2018,0.0
 Ayensuano,0,2019,0.0
 Ayensuano,0,2020,0.0
-Sefwi Akontombra,0,2015,0.0
-Sefwi Akontombra,0,2016,0.00010477018659570232
-Sefwi Akontombra,0,2017,0.0
-Sefwi Akontombra,0,2018,0.0
-Sefwi Akontombra,0,2019,0.0
-Sefwi Akontombra,0,2020,0.0
-Akyem Mansa,0,2015,0.0
-Akyem Mansa,0,2016,0.0
-Akyem Mansa,0,2017,0.0
-Akyem Mansa,0,2018,0.0
-Akyem Mansa,0,2019,0.0
-Akyem Mansa,0,2020,0.0
 Suhum Municipal,0,2015,0.0
 Suhum Municipal,0,2016,0.0
 Suhum Municipal,0,2017,0.0
 Suhum Municipal,0,2018,0.0
 Suhum Municipal,0,2019,0.0
 Suhum Municipal,0,2020,0.0
-New Juaben Municipal,0,2015,0.0
-New Juaben Municipal,0,2016,0.0
-New Juaben Municipal,0,2017,0.0
-New Juaben Municipal,0,2018,0.0
-New Juaben Municipal,0,2019,0.0
-New Juaben Municipal,0,2020,0.0
+Sefwi-Wiawso,0,2015,0.0
+Sefwi-Wiawso,0,2016,0.0
+Sefwi-Wiawso,0,2017,0.0
+Sefwi-Wiawso,0,2018,0.0
+Sefwi-Wiawso,0,2019,0.0
+Sefwi-Wiawso,0,2020,0.0
 Nkoranza North,0,2015,0.0
 Nkoranza North,0,2016,0.0
 Nkoranza North,0,2017,0.0
 Nkoranza North,0,2018,0.0
 Nkoranza North,0,2019,0.0
 Nkoranza North,0,2020,0.0
+New Juaben Municipal,0,2015,0.0
+New Juaben Municipal,0,2016,0.0
+New Juaben Municipal,0,2017,0.0
+New Juaben Municipal,0,2018,0.0
+New Juaben Municipal,0,2019,0.0
+New Juaben Municipal,0,2020,0.0
+Akyem Mansa,0,2015,0.0
+Akyem Mansa,0,2016,0.0
+Akyem Mansa,0,2017,0.0
+Akyem Mansa,0,2018,0.0
+Akyem Mansa,0,2019,0.0
+Akyem Mansa,0,2020,0.0
+Sefwi Akontombra,0,2015,0.0
+Sefwi Akontombra,0,2016,0.00010477018659570232
+Sefwi Akontombra,0,2017,0.0
+Sefwi Akontombra,0,2018,0.0
+Sefwi Akontombra,0,2019,0.0
+Sefwi Akontombra,0,2020,0.0
 Hohoe Municipal,0,2015,0.0
 Hohoe Municipal,0,2016,0.0
 Hohoe Municipal,0,2017,0.0
 Hohoe Municipal,0,2018,0.0
 Hohoe Municipal,0,2019,0.0
 Hohoe Municipal,0,2020,0.0
-Upper West Akim,0,2015,0.0
-Upper West Akim,0,2016,0.0
-Upper West Akim,0,2017,0.0
-Upper West Akim,0,2018,0.0
-Upper West Akim,0,2019,0.0
-Upper West Akim,0,2020,0.0
 Asunafo North,0,2015,0.0
 Asunafo North,0,2016,0.0
 Asunafo North,0,2017,0.0
 Asunafo North,0,2018,0.0
 Asunafo North,0,2019,0.0
 Asunafo North,0,2020,0.0
-Sekyere South,0,2015,0.0
-Sekyere South,0,2016,0.0
-Sekyere South,0,2017,0.0
-Sekyere South,0,2018,0.0
-Sekyere South,0,2019,0.0
-Sekyere South,0,2020,0.0
 Juabeso,0,2015,0.0
 Juabeso,0,2016,0.0
 Juabeso,0,2017,0.0
 Juabeso,0,2018,0.0
 Juabeso,0,2019,0.0
 Juabeso,0,2020,0.0
-Offinso Municipal,0,2015,0.0
-Offinso Municipal,0,2016,0.0
-Offinso Municipal,0,2017,0.0
-Offinso Municipal,0,2018,0.0
-Offinso Municipal,0,2019,0.0
-Offinso Municipal,0,2020,0.0
-Mampong Municipal,0,2015,0.0
-Mampong Municipal,0,2016,0.0
-Mampong Municipal,0,2017,0.0
-Mampong Municipal,0,2018,0.0
-Mampong Municipal,0,2019,0.0
-Mampong Municipal,0,2020,0.0
+Sekyere South,0,2015,0.0
+Sekyere South,0,2016,0.0
+Sekyere South,0,2017,0.0
+Sekyere South,0,2018,0.0
+Sekyere South,0,2019,0.0
+Sekyere South,0,2020,0.0
+Upper West Akim,0,2015,0.0
+Upper West Akim,0,2016,0.0
+Upper West Akim,0,2017,0.0
+Upper West Akim,0,2018,0.0
+Upper West Akim,0,2019,0.0
+Upper West Akim,0,2020,0.0
+Nkoranza South,0,2015,0.0
+Nkoranza South,0,2016,0.0
+Nkoranza South,0,2017,0.0
+Nkoranza South,0,2018,0.0
+Nkoranza South,0,2019,0.0
+Nkoranza South,0,2020,0.0
 Sekyere Kumawu,0,2015,0.0
 Sekyere Kumawu,0,2016,0.0
 Sekyere Kumawu,0,2017,0.0
 Sekyere Kumawu,0,2018,0.0
 Sekyere Kumawu,0,2019,0.0
 Sekyere Kumawu,0,2020,0.0
-Kwabre,0,2015,0.0
-Kwabre,0,2016,0.0
-Kwabre,0,2017,0.0
-Kwabre,0,2018,0.0
-Kwabre,0,2019,0.0
-Kwabre,0,2020,0.0
+Assin South,0,2015,0.0
+Assin South,0,2016,0.0
+Assin South,0,2017,0.0
+Assin South,0,2018,0.0
+Assin South,0,2019,0.0
+Assin South,0,2020,0.0
+Offinso Municipal,0,2015,0.0
+Offinso Municipal,0,2016,0.0
+Offinso Municipal,0,2017,0.0
+Offinso Municipal,0,2018,0.0
+Offinso Municipal,0,2019,0.0
+Offinso Municipal,0,2020,0.0
+Asunafo South,0,2015,0.0
+Asunafo South,0,2016,0.0
+Asunafo South,0,2017,0.0
+Asunafo South,0,2018,0.0
+Asunafo South,0,2019,0.0
+Asunafo South,0,2020,0.0
+Dormaa West,0,2015,0.0
+Dormaa West,0,2016,0.0
+Dormaa West,0,2017,0.0
+Dormaa West,0,2018,0.0
+Dormaa West,0,2019,0.0
+Dormaa West,0,2020,0.0
 Techiman North,0,2015,0.0
 Techiman North,0,2016,0.0
 Techiman North,0,2017,0.0
 Techiman North,0,2018,0.0
 Techiman North,0,2019,0.0
 Techiman North,0,2020,0.0
-Asikuma / Odoben / Brakwa,0,2015,0.0
-Asikuma / Odoben / Brakwa,0,2016,0.0
-Asikuma / Odoben / Brakwa,0,2017,0.0
-Asikuma / Odoben / Brakwa,0,2018,0.0
-Asikuma / Odoben / Brakwa,0,2019,0.0
-Asikuma / Odoben / Brakwa,0,2020,0.0
+Bia East,0,2015,0.0
+Bia East,0,2016,0.0
+Bia East,0,2017,0.0
+Bia East,0,2018,0.0
+Bia East,0,2019,0.0
+Bia East,0,2020,0.0
+Asokore Mampong Municipal,0,2015,0.0
+Asokore Mampong Municipal,0,2016,0.0
+Asokore Mampong Municipal,0,2017,0.0
+Asokore Mampong Municipal,0,2018,0.0
+Asokore Mampong Municipal,0,2019,0.0
+Asokore Mampong Municipal,0,2020,0.0
 Techiman Municipal,0,2015,0.0
 Techiman Municipal,0,2016,0.0
 Techiman Municipal,0,2017,0.0
 Techiman Municipal,0,2018,0.0
 Techiman Municipal,0,2019,0.0
 Techiman Municipal,0,2020,0.0
+Agona West,0,2015,0.0
+Agona West,0,2016,0.0
+Agona West,0,2017,0.0
+Agona West,0,2018,0.0
+Agona West,0,2019,0.0
+Agona West,0,2020,0.0
+Akwapem North,0,2015,0.0
+Akwapem North,0,2016,0.0
+Akwapem North,0,2017,0.0
+Akwapem North,0,2018,0.0
+Akwapem North,0,2019,0.0
+Akwapem North,0,2020,0.0
+Mampong Municipal,0,2015,0.0
+Mampong Municipal,0,2016,0.0
+Mampong Municipal,0,2017,0.0
+Mampong Municipal,0,2018,0.0
+Mampong Municipal,0,2019,0.0
+Mampong Municipal,0,2020,0.0
+Kma,0,2015,1.0500067830438184e-05
+Kma,0,2016,0.0
+Kma,0,2017,0.0
+Kma,0,2018,0.0
+Kma,0,2019,0.0
+Kma,0,2020,0.0
+Offinso North,0,2015,0.0
+Offinso North,0,2016,0.0
+Offinso North,0,2017,0.0
+Offinso North,0,2018,0.0
+Offinso North,0,2019,0.0
+Offinso North,0,2020,0.0
+Kwabre,0,2015,0.0
+Kwabre,0,2016,0.0
+Kwabre,0,2017,0.0
+Kwabre,0,2018,0.0
+Kwabre,0,2019,0.0
+Kwabre,0,2020,0.0
+Asikuma / Odoben / Brakwa,0,2015,0.0
+Asikuma / Odoben / Brakwa,0,2016,0.0
+Asikuma / Odoben / Brakwa,0,2017,0.0
+Asikuma / Odoben / Brakwa,0,2018,0.0
+Asikuma / Odoben / Brakwa,0,2019,0.0
+Asikuma / Odoben / Brakwa,0,2020,0.0
+Ga East,0,2015,0.0
+Ga East,0,2016,0.0
+Ga East,0,2017,0.0
+Ga East,0,2018,0.0
+Ga East,0,2019,0.0
+Ga East,0,2020,0.0
 Bia West,0,2015,0.0
 Bia West,0,2016,0.0
 Bia West,0,2017,0.0
@@ -1187,66 +1253,12 @@ Sunyani Municipal,0,2017,0.0
 Sunyani Municipal,0,2018,0.0
 Sunyani Municipal,0,2019,0.0
 Sunyani Municipal,0,2020,0.0
-Offinso North,0,2015,0.0
-Offinso North,0,2016,0.0
-Offinso North,0,2017,0.0
-Offinso North,0,2018,0.0
-Offinso North,0,2019,0.0
-Offinso North,0,2020,0.0
-Kma,0,2015,1.0500067830438184e-05
-Kma,0,2016,0.0
-Kma,0,2017,0.0
-Kma,0,2018,0.0
-Kma,0,2019,0.0
-Kma,0,2020,0.0
 Tano South,0,2015,0.0
 Tano South,0,2016,0.0
 Tano South,0,2017,0.0
 Tano South,0,2018,0.0
 Tano South,0,2019,0.0
 Tano South,0,2020,0.0
-Akwapem North,0,2015,0.0
-Akwapem North,0,2016,0.0
-Akwapem North,0,2017,0.0
-Akwapem North,0,2018,0.0
-Akwapem North,0,2019,0.0
-Akwapem North,0,2020,0.0
-Dormaa West,0,2015,0.0
-Dormaa West,0,2016,0.0
-Dormaa West,0,2017,0.0
-Dormaa West,0,2018,0.0
-Dormaa West,0,2019,0.0
-Dormaa West,0,2020,0.0
-Ga East,0,2015,0.0
-Ga East,0,2016,0.0
-Ga East,0,2017,0.0
-Ga East,0,2018,0.0
-Ga East,0,2019,0.0
-Ga East,0,2020,0.0
-Tano North,0,2015,0.0
-Tano North,0,2016,0.0
-Tano North,0,2017,0.0
-Tano North,0,2018,0.0
-Tano North,0,2019,0.0
-Tano North,0,2020,0.0
-Agona West,0,2015,0.0
-Agona West,0,2016,0.0
-Agona West,0,2017,0.0
-Agona West,0,2018,0.0
-Agona West,0,2019,0.0
-Agona West,0,2020,0.0
-Asokore Mampong Municipal,0,2015,0.0
-Asokore Mampong Municipal,0,2016,0.0
-Asokore Mampong Municipal,0,2017,0.0
-Asokore Mampong Municipal,0,2018,0.0
-Asokore Mampong Municipal,0,2019,0.0
-Asokore Mampong Municipal,0,2020,0.0
-Bia East,0,2015,0.0
-Bia East,0,2016,0.0
-Bia East,0,2017,0.0
-Bia East,0,2018,0.0
-Bia East,0,2019,0.0
-Bia East,0,2020,0.0
 Jaman North,0,2015,0.0
 Jaman North,0,2016,0.0
 Jaman North,0,2017,0.0
@@ -1265,30 +1277,18 @@ Jasikan,0,2017,0.0
 Jasikan,0,2018,0.0
 Jasikan,0,2019,0.0
 Jasikan,0,2020,0.0
+Tano North,0,2015,0.0
+Tano North,0,2016,0.0
+Tano North,0,2017,0.0
+Tano North,0,2018,0.0
+Tano North,0,2019,0.0
+Tano North,0,2020,0.0
 Kadjebi,0,2015,0.0
 Kadjebi,0,2016,0.0
 Kadjebi,0,2017,0.0
 Kadjebi,0,2018,0.0
 Kadjebi,0,2019,0.0
 Kadjebi,0,2020,0.0
-Assin South,0,2015,0.0
-Assin South,0,2016,0.0
-Assin South,0,2017,0.0
-Assin South,0,2018,0.0
-Assin South,0,2019,0.0
-Assin South,0,2020,0.0
-Nkoranza South,0,2015,0.0
-Nkoranza South,0,2016,0.0
-Nkoranza South,0,2017,0.0
-Nkoranza South,0,2018,0.0
-Nkoranza South,0,2019,0.0
-Nkoranza South,0,2020,0.0
-Asunafo South,0,2015,0.0
-Asunafo South,0,2016,0.0
-Asunafo South,0,2017,0.0
-Asunafo South,0,2018,0.0
-Asunafo South,0,2019,0.0
-Asunafo South,0,2020,0.0
 Sunyani West,0,2015,0.0
 Sunyani West,0,2016,0.0
 Sunyani West,0,2017,0.0

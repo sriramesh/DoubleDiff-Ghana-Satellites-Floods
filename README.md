@@ -1,4 +1,5 @@
-# Impact evaluation of a satellite-based flood information system for the Government of Ghana's National Disaster Risk Management Organization (NADMO)
- This repository contains files and analysis for a quasi-experimental impact evaluation on a satellite-based flood information system (FIS) for the Government of Ghana's Ministry of Interior, National Disaster Risk Management Organization (NADMO). This project is my thesis for the completion of the Master of Development Practice degree at UC Berkeley in Spring 2021.
+# Double difference evaluation of a satellite-based flood information system for the Government of Ghana's National Disaster Risk Management Organization (NADMO)
 
-**All distict and national time series data is courtesy of Cloud to Street, PBC: https://www.cloudtostreet.info/**
+This repository provides all relevant files for a working paper that sits at the intersection of applied econometrics and climate change. The paper examines whether the provision of a satellite-based flood information system (FIS) to the Government of Ghana's National Disaster Risk Management Organization (NADMO) reduces the number of flood-affected people in high flood risk districts relative to low flood risk ones. This paper also serves as my master's thesis for the Master of Development Practice (MDP) degree at UC Berkeley.
+
+**All national and sub-national time series satellite data is courtesy of Cloud to Street, PBC: https://www.cloudtostreet.info/**

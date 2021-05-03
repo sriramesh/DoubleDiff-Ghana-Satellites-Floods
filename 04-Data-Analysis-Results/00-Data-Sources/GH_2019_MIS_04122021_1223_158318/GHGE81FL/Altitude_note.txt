@@ -1,6 +1,0 @@
-The altitude values listed in the recode files for clusters that are missing GPS coordinates
-were calculated by computing the average altitude from the SRTM (Shuttle Radar Topography Mission) 
-DEM (Digital Elevation Model) for the administrative 3 area to which the cluster belongs.
-
-
-All ALT_DEM locations were extracted except one: Cluster 169. This cluster was classified MIS and had no record of an Admin 2 in several shapefiles that were examined (Cluster 169).

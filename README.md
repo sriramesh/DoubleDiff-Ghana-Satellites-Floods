@@ -1,5 +1,6 @@
-# Double difference evaluation of a satellite-based flood information system for the Government of Ghana's National Disaster Risk Management Organization (NADMO)
+# Can satellites help first responders in Ghana improve food security after catastrophic flooding? The foundations of a quasi-experimental impact evaluation
 
-This repository provides all relevant files for a working paper that sits at the intersection of applied econometrics and climate change. The paper examines whether the provision of a satellite-based flood information system (FIS) to the Government of Ghana's National Disaster Risk Management Organization (NADMO) reduces the number of flood-affected people in high flood risk districts relative to low flood risk ones. This paper also serves as my master's thesis for the Master of Development Practice (MDP) degree at UC Berkeley.
 
-**All national and sub-national time series satellite data is courtesy of Cloud to Street, PBC: https://www.cloudtostreet.info/**
+This repository contains all data and analysis for a working paper 'Can satellites help first responders in Ghana improve food security after catastrophic flooding? The foundations of a quasi-experimental impact evaluation'. Using Ghana as a case study, this study lays the framework for the first-ever quasi-experimental impact evaluation to estimate the impact of a satellite-based flood information system (FIS) on food security outcomes. This study serves as my master's thesis for the completion of the Master of Development Practice (MDP) degree at UC Berkeley.
+
+**All national and sub-national time series data found in this repository is courtesy of Cloud to Street, PBC: https://www.cloudtostreet.info/**

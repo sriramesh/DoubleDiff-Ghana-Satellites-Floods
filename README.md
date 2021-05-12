@@ -8,7 +8,7 @@ This repository contains all data and analysis for a working paper entitled "Can
 
 The 'Data Sources' section of this repository also includes shapefiles of Ghana at the GADM Adm 2 level used to map the spatial distribution of treatment and control groups, and the spatial distribution of the composite Flood Risk Index. All national and sub-national time series data found in this repository is courtesy of [Cloud to Street, PBC](https://www.cloudtostreet.info/). 
 
-**The full working paper can be found in Overleaf's public gallery.** See other blog plots related to this paper:
+**The full working paper can be found [here](https://github.com/sriramesh/Evaluation-Can-Satellites-Optimize-Emergency-Response-Ghana/blob/master/00-Paper/Srilakshmi_Ramesh_MDPThesis_Spring2021_final.pdf).** See other blog plots related to this paper:
 
 * [Berkeley Public Policy Journal: Three Things that Flood Analytics Providers should do to track their impact](https://bppj.berkeley.edu/2021/04/16/three-things-that-flood-analytics-providers-should-do-to-track-their-impact/) 
 * [Cloud to Street Medium Blog: Avoiding the Black Box Effect](medium.com/cloud-to-street/avoiding-the-black-box-effect-tracking-the-impact-of-flood-analytics-55d2b2b6d108)

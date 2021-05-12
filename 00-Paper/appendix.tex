@@ -1,0 +1,128 @@
+\chapter{Appendices}
+
+There are two appendices provided in this section:
+
+\begin{enumerate}
+    \item Mathematical confirmation of a lack of parallel trends
+    \item Water detection algorithms
+\end{enumerate}
+
+The appendices are in the following pages.
+
+\newpage
+
+\section{Mathematical confirmation of a lack of parallel trends}
+
+As discussed in the Methods section of this study, there was a lack of parallel trends in the treatment and control group means of two potential outcome variables:
+
+\begin{itemize}
+    \item average number of flood-affected people
+    \item average hectares of flood-affected cropland
+\end{itemize}
+
+The lack of parallel trends can be confirmed mathematically by calculating the slope of the line between each year, and the following year in the 35-year satellite record. Here is the formula used to calculate the slopes:
+
+\[ {m} = ({x_1 - x_2}) / ({y_1 - y_2}) \]
+
+In this formula, \({x}\) represents the average value amongst treatment or control districts of a given impact (either cropland or population) and \({y}\) represents the time interval. The following two tables implement the slope calculation for the treatment and control group trendlines for the two potential outcome variables.
+
+\begin{longtable}{|p{1.2cm}|p{1.2cm}|p{2.2cm}|p{2cm}|p{1.5cm}|}
+\centering
+\textbf{Start Year} & \textbf{End Year} & \textbf{Slope, Treatment (\({m_T}\)) } & \textbf{Slope, Control (\({m_C}\))} & \textbf{Slopes match?}\\
+\hline
+1985\rule{0pt}{4ex} & 1986 & 18.50175 & 0.456498 & No\\
+1986\rule{0pt}{4ex} & 1987 & -2.536229 & -0.456498 & No\\
+1987\rule{0pt}{4ex} & 1988 & 1.708145 & 0.000000 & No\\
+1988\rule{0pt}{4ex} & 1989 & 19.82549 & 3.453488 & No\\
+1989\rule{0pt}{4ex} & 1990 & 17.751976 & -2.790698 & No\\
+1990\rule{0pt}{4ex} & 1991 & -25.197285 & -0.558140 & No\\
+1991\rule{0pt}{4ex} & 1992 & -29.576923 & -0.104651 & No\\
+1992\rule{0pt}{4ex} & 1994 & -0.165385 & 0.000000 & No\\
+1994\rule{0pt}{4ex} & 1995 & 1.030528 & 0.000000 & No\\
+1995\rule{0pt}{4ex} & 1996 & -0.792308 & 0.523256 & No\\
+1996\rule{0pt}{4ex} & 1997 & -0.384374 & -0.523256 & No\\
+1997\rule{0pt}{4ex} & 1998 & 4.491071 & 0.000000 & No\\
+1998\rule{0pt}{4ex} & 1999 & 40.185219 & 0.154172 & No\\
+1999\rule{0pt}{4ex} & 2000 & -9.999789 & 0.267442 & No\\
+2000\rule{0pt}{4ex} & 2001 & -5.447783 & -0.173871 & No\\
+2001\rule{0pt}{4ex} & 2002 & 1.495777 & -0.087141 & No\\
+2002\rule{0pt}{4ex} & 2003 & 6.870799 & 0.491929 & No\\
+2003\rule{0pt}{4ex} & 2004 & -8.815596 & 0.780711 & No\\
+2004\rule{0pt}{4ex} & 2005 & -15.02733 & -1.316963 & No\\
+2005\rule{0pt}{4ex} & 2006 & 5.275958 & 7.863475 & No\\
+2006\rule{0pt}{4ex} & 2007 & 7.459849 & -7.722572 & No\\
+2007\rule{0pt}{4ex} & 2008 & 19.799759 & 9.010260 & No\\
+2008\rule{0pt}{4ex} & 2009 & 1.392459 & -9.034884 & No\\
+2009\rule{0pt}{4ex} & 2010 & -9.26543 & -0.232558 & No\\
+2010\rule{0pt}{4ex} & 2011 & 26.902896 & 0.476744 & No\\
+2011\rule{0pt}{4ex} & 2012 & -18.839729 & -0.476744 & No\\
+2012\rule{0pt}{4ex} & 2013 & -5.317738 & 0.058140 & No\\
+2013\rule{0pt}{4ex} & 2014 & -3.531312 & 0.011628 & No\\
+2014\rule{0pt}{4ex} & 2015 & -20.313876 & 0.220930 & No\\
+2015\rule{0pt}{4ex} & 2016 & 41.271946 & 12.651163 & No\\
+2016\rule{0pt}{4ex} & 2017 & -35.457798 & -12.895349 & No\\
+2017\rule{0pt}{4ex} & 2018 & 20.313514 & 0.058140 & No\\
+2018\rule{0pt}{4ex} & 2019 & 8.73997 & -0.104651 & No\\
+\hline
+\caption{Slope calculations for each trendline in annualized mean values of average flood-affected population}
+\end{longtable}
+
+In Table 11.1, the ‘Start Year’ refers to a given year in the satellite record. The ‘End Year’ refers to the following year in the record (usually the next year). The ‘Slope, Treatment’ column refers to the slope of the line between the Start Year and the End Year in the record for the treatment group. The ‘Slope, Control’ column refers to the slope of the line between the Start Year and the end Year in the record for the control group.\\
+
+If parallel trends were to exist, \({m_T}\) and \({m_C}\) would be equivalent. As shown in the table, these two values are not equivalent for any of the years in the historical record for the average flood-affected population impact. Table 11.2 repeats the slope calculation for the average flood-affected cropland impact.\\
+
+\begin{longtable}{|p{1.2cm}|p{1.2cm}|p{2.2cm}|p{2cm}|p{1.5cm}|}
+\centering
+\textbf{Start Year} & \textbf{End Year} & \textbf{Slope, Treatment (\({m_T}\)) } & \textbf{Slope, Control (\({m_C}\))} & \textbf{Slopes match?}\\
+\hline
+1985\rule{0pt}{4ex} & 1986 & 7.170577 & 0.586033 & No\\
+1986\rule{0pt}{4ex} & 1987 & -2.800702 & -0.574682 & No\\
+1987\rule{0pt}{4ex} & 1988 & 148.987043 & 0.016480 & No\\
+1988\rule{0pt}{4ex} & 1989 & -61.729420 & 0.199349 & No\\
+1989\rule{0pt}{4ex} & 1990 & -25.809279 & -0.072713 & No\\
+1990\rule{0pt}{4ex} & 1991 & -60.504164 & 0.138236 & No\\
+1991\rule{0pt}{4ex} & 1992 & -3.887331 & -0.144188 & No\\
+1992\rule{0pt}{4ex} & 1994 & 0.392435 & -0.072724 & No\\
+1994\rule{0pt}{4ex} & 1995 & 21.148188 & 0.005240 & No\\
+1995\rule{0pt}{4ex} & 1996 & -22.136246 & 0.531135 & No\\
+1996\rule{0pt}{4ex} & 1997 & -1.282825 & -0.539440 & No\\
+1997\rule{0pt}{4ex} & 1998 & 0.921280 & 0.025841 & No\\
+1998\rule{0pt}{4ex} & 1999 & 70.286765 & 0.081854 & No\\
+1999\rule{0pt}{4ex} & 2000 & 36.172165 & 0.238527 & No\\
+2000\rule{0pt}{4ex} & 2001 & -76.730622 & -0.041714 & No\\
+2001\rule{0pt}{4ex} & 2002 & -7.504364 & 0.062758 & No\\
+2002\rule{0pt}{4ex} & 2003 & 143.880448 & -0.092617 & No\\
+2003\rule{0pt}{4ex} & 2004 & -157.253841 & -0.044767 & No\\
+2004\rule{0pt}{4ex} & 2005 & 3.544001 & -0.029547 & No\\
+2005\rule{0pt}{4ex} & 2006 & 8.809610 & 0.678076 & No\\
+2006\rule{0pt}{4ex} & 2007 & 134.614088 & -0.474460 & No\\
+2007\rule{0pt}{4ex} & 2008 & -71.495177 & -0.018330 & No\\
+2008\rule{0pt}{4ex} & 2009 & 157.802402 & -0.142329 & No\\
+2009\rule{0pt}{4ex} & 2010 & -131.699847 & -0.215683 & No\\
+2010\rule{0pt}{4ex} & 2011 & 95.867573 & 0.510022 & No\\
+2011\rule{0pt}{4ex} & 2012 & -64.516710 & -0.339534 & No\\
+2012\rule{0pt}{4ex} & 2013 & 73.760014 & 0.458263 & No\\
+2013\rule{0pt}{4ex} & 2014 & -126.020169 & 0.626390 & No\\
+2014\rule{0pt}{4ex} & 2015 & 87.306208 & -0.819893 & No\\
+2015\rule{0pt}{4ex} & 2016 & -12.686586 & 2.032991 & No\\
+2016\rule{0pt}{4ex} & 2017 & -119.709914 & -1.457678 & No\\
+2017\rule{0pt}{4ex} & 2018 & 250.970868 & -0.029584 & No\\
+2018\rule{0pt}{4ex} & 2019 & -162.917143 & -0.100929 & No\\
+\hline
+\caption{Slope calculations for each trendline in annualized mean values of average flood-affected cropland}
+\end{longtable}
+
+As shown in Table 11.2, \({m_T}\) and \({m_C}\)  are not equivalent for any of the years in the historical record for the average flood-affected population cropland. Thus, we conclude that there is a lack of parallel trends in both potential outcome variables of interest.
+
+\newpage
+\section{Water detection algorithms}
+
+The water detection algorithms\footnote{All text in this section is courtesy of Cloud to Street’s internal documentation} used in this study were developed by and belong to Cloud to Street. The following text describes the water detection algorithms in detail.\\
+
+Water areas in MODIS images are extracted using a water detection algorithm designed by the DFO (Brakenridge and Anderson, 2006)\cite{brakenridge2006dartmouth}. Based on the start and end dates of each event as listed in the DFO database, every MODIS image from each day during the flood event is mapped for water. The final image is the maximum extent of water from the entire event (i.e., any time water was detected in any MODIS image on any day of the event).\\
+
+The Landsat water detection algorithm is based on Feyisa et al., (2014)\cite{feyisa2014automated}. This water detection algorithm has an overall accuracy of 82.5 percent, tested on over 37,297 points (stratified into water, non-water, and near predicted water areas parts equally). These points are taken primarily from known flood events in the Global Flood Database (Tellman et al., In Prep; Tellman et al., 2017\cite{tellman2017global}), but a smaller subset (2,308 points) were assessed on flood images with specific problem areas (e.g., in areas with high cloud cover, in cloud shadow areas, in agricultural areas, etc.), and the accuracy in these problem areas was found to be higher (85 percent accuracy).\\
+
+In a quantitative comparison among multiple flood detection techniques, this algorithm was found to have higher precision and recall when compared to other water detection algorithms (Coltin et al., 2016)\cite{coltin2016automatic}. Cloud to Street’s forthcoming peer-reviewed publication detailing the accuracy of the DFO algorithm reports a mean accuracy of 83 percent across 125 events with sufficient concurrent data for validation, with nearly half of these events above 90 percent in accuracy (Tellman et al., In Prep).\\
+
+The MODIS algorithm is designed to detect discrete flood events from daily MODIS imagery globally. The DFO algorithm uses two thresholds to identify water pixels within an image: one for a ratio of NIR (Near-Infrared) and Red bands (NIR/Red Ratio) and one for the SWIR (Shortwave Infrared) band. Pixels with both NIR/Red less than 0.70 and SWIR less than 675 (the “Standard” thresholds) are classified as water. It adjusts for common misclassification errors due to cloud shadows and hill shade areas (i.e., falsely detecting these as water) by ensuring water is consistently detected at least 3 times over 3 days within the 6 images provided by MODIS (2 images per day). By using multiple images, stationary elements such as water can be maintained and mobile elements such as cloud shadows can be eliminated. 

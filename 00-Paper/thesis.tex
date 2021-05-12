@@ -9,19 +9,17 @@
 \usepackage{wrapfig}
 \usepackage{graphicx} %package to manage images
 \usepackage{bbm}
+\usepackage{longtable}
+\usepackage[tableposition=below]{caption}
+\captionsetup[longtable]{skip=1em}
 
 % To compile this file, run "latex thesis", then "biber thesis"
 % (or "bibtex thesis", if the output from latex asks for that instead),
 % and then "latex thesis" (without the quotes in each case).
 
-% Double spacing, if you want it.  Do not use for the final copy.
-% \def\dsp{\def\baselinestretch{2.0}\large\normalsize}
-% \dsp
-
 % If the Grad. Division insists that the first paragraph of a section
 % be indented (like the others), then include this line:
 \usepackage{indentfirst}
-
 \addtolength{\abovecaptionskip}{\baselineskip}
 
 \newtheorem{theorem}{Jibberish}
@@ -43,21 +41,7 @@
 \chair{Professor Alain de Janvry}
 \othermembers{Professor David Zilberman \\
   Professor David Wells Roland-Holst}
-% For a co-chair who is subordinate to the \chair listed above
-% \cochair{Professor Benedict Francis Pope}
-% For two co-chairs of equal standing (do not use \chair with this one)
-% \cochairs{Professor Richard Francis Sony}{Professor Benedict Francis Pope}
 \numberofmembers{3}
-% Previous degrees are no longer to be listed on the title page.
-% \prevdegrees{B.A. (University of Northern South Dakota at Hoople) 1978 \\
-%   M.S. (Ed's School of Quantum Mechanics and Muffler Repair) 1989}
-\field{}
-% Designated Emphasis -- this is optional, and rare
-% \emphasis{Colloidal Telemetry}
-% This is optional, and rare
-% \jointinstitution{University of Western Maryland}
-% This is optional (default is Berkeley)
-% \campus{Berkeley}
 
 % For a masters thesis, replace the above \documentclass line with
 % \documentclass[masters]{ucbthesis}
@@ -65,9 +49,6 @@
 % document a "dissertation", not a "thesis".
 
 \maketitle
-% Delete (or comment out) the \approvalpage line for the final version.
-% \approvalpage
-%\copyrightpage
 
 % \include{abstract}
 
@@ -77,7 +58,7 @@
 \begin{dedication}
 \null\vfil
 \begin{center}
-To my family - Amma, Appa and Srisruthi - and to my my students in Sri Lanka, because of whom I study development practice, in pursuit of a desire to contribute to something much larger than myself.
+To my family - Amma, Appa and Srisruthi - and to my students in Sri Lanka, because of whom I study development practice, in pursuit of a desire to contribute to something much larger than myself.
 \end{center}
 \vfil\null
 \end{dedication}
@@ -106,8 +87,6 @@ Last but not least, I am deeply grateful for Charlotte Norman and Victor Abbador
 
 \pagestyle{headings}
 
-% (Optional) \part{First Part}
-
 \include{chap1}
 \include{chap2}
 \include{chap3}
@@ -121,7 +100,6 @@ Last but not least, I am deeply grateful for Charlotte Norman and Victor Abbador
 
 \printbibliography
 
-% \appendix
-% \chapter{More Monticello Candidates}
+\include{appendix}
 
 \end{document}

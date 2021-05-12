@@ -28,9 +28,9 @@ In the future, if one is able to resolve the two challenges above, one could pro
 
 \[ Y = alpha + beta (treatment) + gamma (post) + delta (treatment * post) + e \]
 
-In this formula, the variables `treatment` and `post` are boolean, where 1 indicates the Treatment group or post-period respectively, and 0 indicates the Control group or the pre-period respectively. The dependent variable `Y` refers to the outcome variable of interest: district or household-level food security. The term `e` represents the error term.
+In this formula, the variables `treatment` and `post` are boolean, where 1 indicates the Treatment group or post-period respectively, and 0 indicates the Control group or the pre-period respectively. The dependent variable `Y` refers to the outcome variable of interest: district or household-level food security. The term `e` represents the error term.\\
 
-Each coefficient on the independent variables represents the program’s impact on the pre-period control, pre-period treatment, post-period control and post-period treatment groups relative to the other groups, respectively. The coefficients alpha, beta, gamma and delta refer to the impact of the program on the pre-period control, pre-period treatment, post-period control and post-period treatment groups relative to the other groups, respectively. 
+Each coefficient on the independent variables represents the program’s impact on the pre-period control, pre-period treatment, post-period control and post-period treatment groups relative to the other groups, respectively. The coefficients alpha, beta, gamma and delta refer to the impact of the program on the pre-period control, pre-period treatment, post-period control and post-period treatment groups relative to the other groups, respectively.\\
 
 The `delta` coefficient in the OLS regression is our unbiased estimate of the average treatment effect. `delta` is also equivalent to the following, which illustrates more clearly the double difference intuition:
 

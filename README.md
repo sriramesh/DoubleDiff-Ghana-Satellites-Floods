@@ -1,5 +1,7 @@
 # Can Satellites help First Responders in Ghana reduce Food Insecurity after Catastrophic Flooding? The Foundations for a Double-Difference Impact Evaluation
 
+**The full working paper can be found [here](https://github.com/sriramesh/Evaluation-Can-Satellites-Optimize-Emergency-Response-Ghana/blob/master/00-Paper/Srilakshmi_Ramesh_MDPThesis_Spring2021_final.pdf).**
+
 This repository contains all data and analysis for a working paper entitled "Can Satellites help First Responders in Ghana reduce Food Insecurity after Catastrophic Flooding? The Foundations for a Double-Difference Impact Evaluation." This paper explores the intersection of applied remote sensing and applied econometrics to examine the efficacy of satellites in optimizing emergency response around one of the world's largest climate change-induced threats: flooding. By laying the framework for the first quasi-experimental impact evaluation around a satellite-based flood information system (FIS), this paper conducts preliminary research on the efficacy of satellites in improving food security outcomes in Ghana. All of the code in this repository pertains to the Data Sources and Methods sections of the working paper. The code in the respository does the following:
 
 1. Develops a composite Flood Risk Index using flood recurrence intervals and flood damage estimates derived from three satellites: NASA Landsat 7 and 8, ESA Sentinel 1 and Sentinel 2
@@ -8,7 +10,7 @@ This repository contains all data and analysis for a working paper entitled "Can
 
 The 'Data Sources' section of this repository also includes shapefiles of Ghana at the GADM Adm 2 level used to map the spatial distribution of treatment and control groups, and the spatial distribution of the composite Flood Risk Index. All national and sub-national time series data found in this repository is courtesy of [Cloud to Street, PBC](https://www.cloudtostreet.info/). 
 
-**The full working paper can be found [here](https://github.com/sriramesh/Evaluation-Can-Satellites-Optimize-Emergency-Response-Ghana/blob/master/00-Paper/Srilakshmi_Ramesh_MDPThesis_Spring2021_final.pdf).** See other blog plots related to this paper:
+See other blog plots related to this paper:
 
 * [Berkeley Public Policy Journal: Three Things that Flood Analytics Providers should do to track their impact](https://bppj.berkeley.edu/2021/04/16/three-things-that-flood-analytics-providers-should-do-to-track-their-impact/) 
 * [Cloud to Street Medium Blog: Avoiding the Black Box Effect](medium.com/cloud-to-street/avoiding-the-black-box-effect-tracking-the-impact-of-flood-analytics-55d2b2b6d108)

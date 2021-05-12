@@ -1,0 +1,127 @@
+%% thesis.tex 2014/04/11
+%
+% Based on sample files of unknown authorship.
+%
+% The Current Maintainer of this work is Paul Vojta.
+
+\documentclass[masters]{ucbthesis}
+\usepackage{biblatex}
+\usepackage{wrapfig}
+\usepackage{graphicx} %package to manage images
+\usepackage{bbm}
+
+% To compile this file, run "latex thesis", then "biber thesis"
+% (or "bibtex thesis", if the output from latex asks for that instead),
+% and then "latex thesis" (without the quotes in each case).
+
+% Double spacing, if you want it.  Do not use for the final copy.
+% \def\dsp{\def\baselinestretch{2.0}\large\normalsize}
+% \dsp
+
+% If the Grad. Division insists that the first paragraph of a section
+% be indented (like the others), then include this line:
+\usepackage{indentfirst}
+
+\addtolength{\abovecaptionskip}{\baselineskip}
+
+\newtheorem{theorem}{Jibberish}
+
+\bibliography{references}
+
+\hyphenation{mar-gin-al-ia}
+\hyphenation{bra-va-do}
+
+\begin{document}
+
+% Declarations for Front Matter
+
+\title{Can Satellites help First Responders in Ghana reduce Food Insecurity after Catastrophic Flooding? Laying the Foundations for a Double-Difference Impact Evaluation}
+\author{Srilakshmi Ramesh}
+\degreesemester{Spring}
+\degreeyear{2021}
+\degree{Master of Development Practice}
+\chair{Professor Alain de Janvry}
+\othermembers{Professor David Zilberman \\
+  Professor David Wells Roland-Holst}
+% For a co-chair who is subordinate to the \chair listed above
+% \cochair{Professor Benedict Francis Pope}
+% For two co-chairs of equal standing (do not use \chair with this one)
+% \cochairs{Professor Richard Francis Sony}{Professor Benedict Francis Pope}
+\numberofmembers{3}
+% Previous degrees are no longer to be listed on the title page.
+% \prevdegrees{B.A. (University of Northern South Dakota at Hoople) 1978 \\
+%   M.S. (Ed's School of Quantum Mechanics and Muffler Repair) 1989}
+\field{}
+% Designated Emphasis -- this is optional, and rare
+% \emphasis{Colloidal Telemetry}
+% This is optional, and rare
+% \jointinstitution{University of Western Maryland}
+% This is optional (default is Berkeley)
+% \campus{Berkeley}
+
+% For a masters thesis, replace the above \documentclass line with
+% \documentclass[masters]{ucbthesis}
+% This affects the title and approval pages, which by default calls this
+% document a "dissertation", not a "thesis".
+
+\maketitle
+% Delete (or comment out) the \approvalpage line for the final version.
+% \approvalpage
+%\copyrightpage
+
+% \include{abstract}
+
+\newpage\null\thispagestyle{empty}\newpage
+\begin{frontmatter}
+
+\begin{dedication}
+\null\vfil
+\begin{center}
+To my family - Amma, Appa and Srisruthi - and to my my students in Sri Lanka, because of whom I study development practice, in pursuit of a desire to contribute to something much larger than myself.
+\end{center}
+\vfil\null
+\end{dedication}
+
+% You can delete the \clearpage lines if you don't want these to start on
+% separate pages.
+
+\tableofcontents
+\clearpage
+\listoffigures
+\clearpage
+\listoftables
+
+\begin{acknowledgements}
+
+In my view, the promise of impact evaluation lies in its ability to serve as a tool to hold us, as development practitioners, accountable to the vision of change we seek to achieve the world. I have sincere gratitude for several individuals at UC Berkeley, at Cloud to Street Public Benefit Corporation, in the Government of Ghana, and at the World Food Programme in Ghana for allowing me to practice this firsthand.\\
+
+First, I am deeply indebted to the three members of my thesis committee, Professors Alain de Janvry, David Wells Roland-Holst, and David Zilberman, for their expertise and kindness in support of efforts to complete this study. I am also indebted to the program staff of the Development Practice Graduate Group; first, George Scharffenberger, a teacher and mentor of mine, for helping cultivate my skills in development practice, next, Lisa Robinson and Lauren Krupa, for their invaluable and consistent support over the two years of my graduate school journey, and last but not least, Professor Zilberman, not only for admitting me to the program two years ago, but for providing me with a community of development practitioners that has served me in immeasurable ways.\\
+
+Next, I am immensely grateful to the entire team at Cloud to Street, PBC for their longstanding support of this work from its inception in May 2020. In particular, a sincere note of thanks to CEO Bessie Schwarz for her enthusiastic support of an impact evaluation, to Emmalina Glinskis for her leadership, time, and expertise in the fields of remote sensing and flood response in Ghana, to Max Goodman and Tyler Anderson for the same, and Dr. Elizabeth Tellman for her guidance that supported this study’s literature review. The Cloud to Street team gratuitously provided to me the full dataset used in this study. Without them, this work would have been wholly impossible.\\
+
+Last but not least, I am deeply grateful for Charlotte Norman and Victor Abbador of the National Disaster Risk Management Organization in the Government of Ghana’s Ministry of Interior. Conversations with these individuals provided invaluable qualitative support for the findings in this study. I am also deeply grateful for John Sitor at WFP Ghana and Charlotte for their support in requisitioning the data required for this study.
+\end{acknowledgements}
+
+\end{frontmatter}
+
+\pagestyle{headings}
+
+% (Optional) \part{First Part}
+
+\include{chap1}
+\include{chap2}
+\include{chap3}
+\include{chap4}
+\include{chap5}
+\include{chap6}
+\include{chap7}
+\include{chap8}
+\include{chap9}
+\include{chap10}
+
+\printbibliography
+
+% \appendix
+% \chapter{More Monticello Candidates}
+
+\end{document}

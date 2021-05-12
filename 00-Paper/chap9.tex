@@ -1,0 +1,39 @@
+\chapter{Discussion}
+
+An unbiased estimate of the average treatment effect could not be derived at this time, for two reasons:
+
+\begin{enumerate}
+  \item A lack of annualized, district-level data on food security in Ghana.
+  \item A lack of parallel trends between Treatment and Control Groups on the potential outcome variable of interest.
+\end{enumerate}
+
+Each challenge is described further in the following sections. Finally, this section provides the equations one would use to derive the double difference estimator in the two challenges above were to be resolved.
+
+\subsection{A lack of annualized, district-level data on food security in Ghana}
+
+Completing this impact evaluation requires annualized, district-level data in Ghana on the primary outcome variable of interest: food security. Traditionally, such data could be obtained using  in-country surveys to collect baseline and endline data. In the absence of the resources required to do this, one could solicit secondary sources for this information. Unfortunately, annualized, district-level data on food security in Ghana was unable to be requisitioned in the time available to conduct this study.
+
+\subsection{A lack of parallel trends between Treatment and Control Groups on the potential outcome variable of interest}
+
+In addition to appropriate data on the outcome variable of interest, completing this impact evaluation also requires a valid counterfactual for the treatment group. In a double difference evaluation, this is established through parallel trends in group means on observable characteristics. The data available to conduct the parallel trends analysis revealed a lack of parallel trends in group means. This could be remedied in some of the following ways:
+
+\begin{enumerate}
+  \item Reconstructing the Flood Risk Index to include other components of flood risk. With additional data, one could reconstruct the flood risk index to define flood risk differently or more comprehensively.
+  \item Constructing a counterfactual with a "synthetic" method.
+\end{enumerate}
+
+\subsection{Double-Difference Estimation}
+
+In the future, if one is able to resolve the two challenges above, one could proceed with deriving the double difference estimate of the ATE. The following section explains how this would be done. In general, in the absence of selection bias and after ensuring parallel trends, one could derive the double difference estimator using a multivariate OLS regression:
+
+\[ Y = alpha + beta (treatment) + gamma (post) + delta (treatment * post) + e \]
+
+In this formula, the variables `treatment` and `post` are boolean, where 1 indicates the Treatment group or post-period respectively, and 0 indicates the Control group or the pre-period respectively. The dependent variable `Y` refers to the outcome variable of interest: district or household-level food security. The term `e` represents the error term.
+
+Each coefficient on the independent variables represents the program’s impact on the pre-period control, pre-period treatment, post-period control and post-period treatment groups relative to the other groups, respectively. The coefficients alpha, beta, gamma and delta refer to the impact of the program on the pre-period control, pre-period treatment, post-period control and post-period treatment groups relative to the other groups, respectively. 
+
+The `delta` coefficient in the OLS regression is our unbiased estimate of the average treatment effect. `delta` is also equivalent to the following, which illustrates more clearly the double difference intuition:
+
+\[ delta = (T_{post} - T_{pre}) - (C_{post} - C_{pre}) \]
+
+This formula will compute a value for delta that is equivalent to the value of delta in the OLS regression, but it more intuitively illustrates what the double difference estimator is. The double difference estimator, as seen here, is the difference between treatment and control group means before and after the program. It is important to note that the coefficient delta only provides an unbiased estimator of the ATE if the identifying assumption of parallel trends is satisfied. Otherwise the coefficient is at best a measure of correlation between the program and the outcome variable of interest.

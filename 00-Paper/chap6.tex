@@ -1,0 +1,168 @@
+\chapter{Data}
+
+This section outlines four components: the two main types of data used in this study, how the geospatial data layers were overlaid to determine units of ‘population affected’ and ‘cropland affected’ by flooding, as well as the metadata for all data sets. All data used in this study was provided gratuitously by Cloud to Street, a remote sensing startup that specializes in the development and sale of satellite-based flood information systems for emergency management in LMICs.\\
+
+Two main types of data were used in this study:
+
+\begin{enumerate}
+  \item Flood recurrence intervals; and
+  \item Flood damage estimates.
+\end{enumerate}
+
+The flood recurrence intervals data contains information about how frequently it floods in each district of Ghana each year. Flood frequency data was available for this study in the form of satellite imagery. These images can illustrate how often a given district of Ghana floods each year. Using flood frequency satellite data was one of the two key components involved in developing the Flood Risk Index. The flood damage estimates data contains information about the point or areal location of critical assets in each district in Ghana. Flood damage estimates were also available for this study in the form of satellite imagery. These estimates - when overlaid onto the flood frequency satellite imagery - provide an adequate measure of flood risk, by revealing which districts in Ghana both flood the most frequently and contain the largest number of flood-risk assets.\\
+
+Each of the two data types above were used in this study in the form of annualized, district-level observations. This is because of the study hypothesis that the program’s benefits are most clear in flood-prone districts relative to non-flood prone districts. Each data type is detailed in the section below.
+
+\section{Flood recurrence intervals}
+
+Flood frequency is often measured using flood recurrence intervals. A flood’s ‘recurrence interval’ is the probability that a flood will occur in any given year. It essentially provides an estimated interval of time between floods of comparable size or severity. If a flood has a recurrence interval of 100 years, for example, the probability of its occurrence in any given year - also known as its annual exceedance probability - is 1/100 or 0.01. If a flood has a recurrence interval of 5 or 2 years, for example, its annual exceedance probability is much higher than this, respectively 1/5 or 1/2 (20 percent or 50 percent). In sum, it is possible to use recurrence intervals to map the extent to which each of Ghana’s 216 districts are flood-prone. Flood frequency maps for each return period can be generated with the following steps:
+
+\begin{enumerate}
+  \item Water detection algorithms take an input of satellite image and flagged each pixel on the image as either a flooded pixel or not flooded pixel (1 or 0). These algorithms ultimately provide a layer of individual water extents for the region in the satellite image. To measure flood frequency, satellite imagery was pulled from two public satellites that provide high-resolution data: Landsat, which provides 30-m resolution imagery, and MODIS, which provides 250-m resolution imagery.
+
+  \item These individual flood extents are then aggregated such that the maximum flood extent is taken for each pixel, each year. Each of these years correspond to a flood recurrence interval.
+  
+  \item The annual maximum flood extents per pixel are used to calculate the annual probability of a given pixel flooding. These annual probabilities of a given pixel flooding are then aggregated to a given unit of aggregation (e.g. the GADM Administrative Level 2 in Ghana), and can provide the annual probability of a given district in Ghana flooding.
+  
+  \item These annual probabilities of a given district flooding are converted to recurrence intervals in years.
+\end{enumerate}
+
+It is possible for a water detection algorithm to mistake seasonal water, which is water that is present in a pixel every year at the same time and permanent water bodies - like a lake, or a river - for a flood event. To account for this, the flood recurrence interval maps produced in Step 4 are cleaned to separate or mask out seasonal water and permanent water bodies using a separate data source that provides the location of such entities in Ghana.  The resulting map is then cleaned using a quality control check that results in the final historical flood frequency layers for each recurrence interval.
+
+\subsection{Why using flood recurrence intervals makes sense to measure flood risk}
+
+Research from the University of Bristol\footnote{In this study, the forecasting model used was provided by Fathom Global Flood Model (GFM, Sampson et al., 2015\cite{sampson2015high}) using the hydrodynamic model LISFLOOD-FP (Neal et al., 2012) and the MERIT Digital Elevation Models (DEM) derived river network (Yamazaki et al., 2019\cite{yamazaki2019merit})} shows that using maps of remotely-sensed flood recurrence intervals as described here is a good way to measure flood frequency - one the two key components of flood risk - if one is interested in measuring high-frequency flooding. The University of Bristol examined the consistency between flood recurrence maps and flood forecasting models using four large river basins across Africa. The analysis compared simulated flood expectation to the remotely sensed flood map for each pixel. The results show that at lower recurrence intervals (i.e. about 50 years), the remotely-sensed flood maps were more accurate than the forecasting model simulations. At higher recurrence intervals (i.e. about 100 years), the forecasting models are more accurate than the remotely-sensed flood maps.\\
+
+Table 6.1 provides the five recurrence intervals used to develop the final Flood Risk Index: 2-year, 5-year, 10-year, 15-year, and 20-year. Recurrence intervals are provided in the column 'T'. 'Frequency' describes the flood frequency that each recurrence interval represents.
+
+\begin{table}
+\centering
+\begin{tabular}{|c|c|p{10cm}|}
+\hline
+\textbf{T} & \textbf{Frequency} & \textbf{Interpretation}\\
+\hline
+2\rule{0pt}{4ex} & Very Frequent & Flags districts that have a 50 percent chance of flooding in the next year based on a ~35-year historical record. \\
+5\rule{0pt}{4ex} & Frequent & Flags districts that have a 20 percent chance of flooding in the next year based on a ~35-year historical record. \\
+10\rule{0pt}{4ex} & Moderately Frequent & Flags districts that have a 10 percent chance of flooding in the next year based on a ~35-year historical  record. \\
+15\rule{0pt}{4ex} & Somewhat Frequent & Flags districts that have a 6.67 percent chance of flooding in the next year based on a ~35-year historical  record. \\
+20\rule{0pt}{4ex} & Less Frequent & Flags districts that have a 5 percent chance of flooding in the next year based on a ~35-year historical record.\\
+\hline
+\end{tabular}
+\caption{Recurrence intervals used in the Flood Risk Index}
+\end{table}
+
+\subsection{Recurrence intervals as flood frequency scenarios}
+
+This section provides more intuition behind why recurrence intervals can be thought of as representing unique flood-frequency scenarios. Using satellites, we can use a flood’s recurrence interval to determine which of Ghana’s 216 districts are ‘very frequently’ flooded vs. ‘less frequently’ flooded.\\
+
+The satellite-derived population impact estimates for Ghana’s 216 districts are shown in Table 6.2. This table contains sample rows of the recurrence interval data (which comes directly from satellites), along with the population estimates that is overlaid on the recurrence data. The ‘District’ column in this table refers to the name of the district in Ghana, corresponding to the GADM Administrative Level 2 region of Ghana. Each recurrence interval column corresponds to a unique flood-frequency scenario. Specifically, the ‘2-Year’ column gives the total number of flood-affected people residing in a given district given that this district is ‘very frequently flooded.’ Similarly, the ‘5-Year’ column provides the same data given that this district is ‘frequently flooded’. A full crosswalk of which recurrence intervals correspond to which flood-frequency scenarios is provided in Table 2. Numbers are in the 1000s.\\
+
+\begin{table}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\textbf{District} & \textbf{2-Year} & \textbf{5-Year} & \textbf{10-Year} & \textbf{15-Year} & \textbf{20-Year}\\
+\hline
+Accra Metropolis\rule{0pt}{4ex} & 41 & 356 & 807 & 1071 & 1256 \\
+Ada East\rule{0pt}{4ex} & 0 & 80 & 230 & 328 & 410 \\
+Ada West\rule{0pt}{4ex} & 18 & 384 & 658 & 801 & 989 \\
+Adaklu\rule{0pt}{4ex} & 0 & 0 & 0 & 0 & 0 \\
+\hline
+\end{tabular}
+\caption{Sample of satellite-derived population impact estimates per flood-frequency scenario}
+\end{table}
+
+The 2-Year recurrence interval represents one extreme scenario: the most frequently flooded, which is termed the ‘Very Frequently Flooded’ scenario. The ‘20-Year’ recurrence interval represents the other extreme scenario: the least frequently flooded, which is termed the ‘Less Frequently Flooded’ scenario. We can determine the number of flood-affected people under each scenario as part of our measure of the overall flood risk:
+
+\begin{equation}
+Severity = Indicator * Population
+\end{equation}
+
+In this equation, 'Severity' represents the impact severity, which is either the number of flood-affected people or the acres of flood-affected cropland in a given recurrence interval. 'Indicator' refers to a boolean value 1 or 0 indicating whether the water detection algorithms detect that the collection of pixels that correspond to a given district are flooded or not in a given recurrence interval. 'Population' is the population of that district per HRSL data at that time.\\
+
+\begin{table}
+\centering
+\begin{tabular}{|c|c|c|p{7cm}|}
+\hline
+\textbf{District} & \textbf{T} & \textbf{Impact Severity} & \textbf{Interpretation}\\
+\hline
+Ada East\rule{0pt}{4ex} & 2 & 0 * (Unknown value) = 0 & 0 people would be impacted by flooding in Ada East under the scenario that Ada East is a ‘very frequently’ flooded district \\
+Ada East\rule{0pt}{4ex} & 5 & 1 * 80 = 80 & 80,000 people would be impacted by flooding in Ada East under the scenario that Ada East is a ‘frequently’ flooded district \\
+\hline
+\end{tabular}
+\caption{Implementation of severity equation for Ada East district, flooded population estimate per recurrence interval}
+\end{table}
+
+Take for example, the district Ada East. If the water detection algorithms determine that Ada East is flooded in a given flood frequency scenario (e.g. the 2-Year Recurrence Interval flood frequency scenario), the boolean indicator becomes a 1. Table 6.3 implements the equation above to arrive at the estimated number of people that would be impacted by flooding under each flood-frequency scenario. We can interpret this as the following:
+
+\begin{enumerate}
+  \item Ada East is not a ‘very frequently’ flooded district, because the indicator in the 2-Year Recurrence Interval is 0.
+  \item However, Ada East is a ‘frequently’ flooded district, because the indicator in the 5-Year Recurrence Interval is 1.
+\end{enumerate}
+
+This example illustrates how recurrence intervals correspond to flood-frequency scenarios. In sum, the gradient of flood-frequency scenarios helps determine which districts are more often flooded relative to the other districts.
+
+\subsection{Satellite data sources used}
+
+Four satellites provided all of the flood inundation data used by the water detection algorithms to map floods as part of the flood recurrence interval data. These sensors were the following:
+
+\begin{enumerate}
+  \item NASA Landsat 7,
+  \item NASA Landsat 8,
+  \item ESA Sentinel-1, and
+  \item ESA Sentinel-2.
+\end{enumerate}
+
+Landsat 7 is the seventh satellite of NASA’s Landsat program. Launched on April 15, 1999, the primary objective of Landsat 7 is to update the global archive of satellite photos in order to provide recent, cloud-free images of Planet Earth.\cite{landsat} The Landsat 7 program is managed by the US Geological Survey. Landsat 8 is the most recently launched satellite in the Landsat program and was launched on February 11, 2013.\\
+
+Sentinel 1 is the first in the Sentinel series of the European Union’s Copernicus program. According to the ESA\cite{sentinel1}, Sentinel-1 carries an advanced radar instrument to provide an all-weather, day-and-night supply of imagery of Earth’s surface. The ESA also describes Sentinel-2\cite{sentinel2} as a European wide-swath, high-resolution, multi-spectral imaging mission. This satellite is designed to give a high revisit frequency of 5 days at the Equator, because of which high-resolution data from Sentinel-2 can support the change detection of flood events for affected countries. Open-source platforms for remote sensing like Google Earth Engine have enabled remote sensing scientists to use the imagery from these four sensors to map floods in near-real time in many low and middle income countries, like Ghana.
+
+\section{Flood damage estimates}
+
+Flood return periods only address one of the two components of flood risk: flood frequency. The second dimension is social and economic vulnerability. This can be measured using the spatial distribution of households and buildings, agricultural land, and other assets of interest. The intersection of these two layers of satellite imagery - a map of flood frequency, and a map of critical assets - provides a more complete measure of flood risk than either layer of imagery used independently. Two types of critical assets were used in this study:\\
+
+\begin{itemize}
+  \item flood-affected population, and
+  \item flood-affected cropland.
+\end{itemize}
+
+Each of these assets is described below.
+
+\subsection{Flood-affected population}
+
+The population data used was the total number of flood-affected populations in each of Ghana’s districts. This data was based on the HRSL\cite{hrsl}. The HRSL is a free, open-source gridded product that provides estimates of populations by combining high-resolution satellite imagery and local census data at 30-meter resolution.\\
+
+Facebook and Columbia university have collaborated to publish the HRSL repository. The Connectivity Lab at Facebook used 0.5 meter DigitalGlobe satellite imagery and machine learning to create pixel based settlement extents at 30 meters. CIESIN then aggregated and distributed the population count from census data to the pixel based settlement extents. HRSL data is currently available in over 100 countries (Facebook, 2017).
+
+\subsection{Flood-affected cropland}
+
+The cropland data was sourced from Clark University’s Mapping Africa Project\cite{mappingafrica}. The cropland data used was the total sq. km. of flood-affected cropland in each of Ghana’s districts. high resolution cropland data at 3-meters. The Mapping Africa Project uses both traditional mapping of cropland with machine learning to improve the classification of agricultural cropland across the African continent.
+
+\section{Overlaying geospatial layers of flood recurrence data and flood damage estimates}
+
+To arrive at the final flood-affected cropland and flood-affected population impacts, the cropland and population datasets are overlaid on the flood layers to determine which pixels in each layer intersect with one another. This intersection comes in the form of a raster layer, that contains only the areas of the country where cropland or population were ‘impacted’ by flooding. This intersection layer, which is at the pixel level, is then aggregated to the administrative unit of interest to arrive at the total number of square kilometers of flood-affected people or cropland per administrative unit, respectively. In this study, the administrative unit of interest was the district-level (i.e. GADM Administrative Level 2).
+
+\section{Metadata}
+
+Using the techniques described in Section 6.3, Cloud to Street’s remote sensing scientists provided tidy datasets of flood impact used throughout this study. This data was used without modification for the purposes of this study. The specifications (or metadata) for each dataset received from Cloud to Street can be seen in the table below.
+
+Cloud to Street provided a variety of datasets that provide a wealth of satellite-driven estimates of population and cropland impacted by flooding overtime at the district level in Ghana. Each row in each of the datasets provided by Cloud to Street corresponded to each district in Ghana (i.e. GADM Level 2) The majority of this data is available open-source on the Cloud to Street website.
+
+\begin{table}
+\centering
+\begin{tabular}{|p{4cm}|p{2cm}|p{8cm}|}
+\hline
+\textbf{Dataset Name} & \textbf{No. of datasets} & \textbf{Description}\\
+\hline
+Flood impact in 2-year interval & 3 & Number of flood-affected people per district, and Hectares of flood-affected cropland per district\\
+Flood impact in 5-year interval & 3 & Same as above for 5-year  interval\\
+Flood impact in 10-year interval & 3 & Same as above for 10-year  interval\\
+Flood impact in 15-year interval & 3 & Same as above for 15-year  interval\\
+Flood impact in 20-year interval & 3 & Same as above for 20-year  interval\\
+Annualized, district-level flood damage estimates & 1 & Annualized impacts for total flood-affected cropland, total flooded area, and total flood-affected population per district (216 districts total)\\
+\hline
+\end{tabular}
+\caption{Metadata}
+\end{table}
+
+Cloud to Street provided a variety of datasets that provide a wealth of satellite-driven estimates of population and cropland impacted by flooding overtime at the district level in Ghana. Each row in each of the datasets provided by Cloud to Street corresponded to each district in Ghana (i.e. GADM Level 2) The majority of this data is available open-source on the Cloud to Street website.\cite{cloudtostreet}

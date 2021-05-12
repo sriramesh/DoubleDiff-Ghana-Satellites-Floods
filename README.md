@@ -13,4 +13,4 @@ The 'Data Sources' section of this repository also includes shapefiles of Ghana 
 See other blog plots related to this paper:
 
 * [Berkeley Public Policy Journal: Three Things that Flood Analytics Providers should do to track their impact](https://bppj.berkeley.edu/2021/04/16/three-things-that-flood-analytics-providers-should-do-to-track-their-impact/) 
-* [Cloud to Street Medium Blog: Avoiding the Black Box Effect](medium.com/cloud-to-street/avoiding-the-black-box-effect-tracking-the-impact-of-flood-analytics-55d2b2b6d108)
+* [Cloud to Street Medium Blog: Avoiding the Black Box Effect](https://medium.com/cloud-to-street/avoiding-the-black-box-effect-tracking-the-impact-of-flood-analytics-55d2b2b6d108)
